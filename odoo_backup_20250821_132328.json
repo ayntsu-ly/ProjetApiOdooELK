@@ -1,0 +1,2326 @@
+{
+  "purchase.order": [
+    {
+      "id": 909,
+      "name": "P00909",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "cancel",
+      "date_order": "2025-07-14 08:20:21",
+      "amount_total": 0.0
+    },
+    {
+      "id": 908,
+      "name": "P00908",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "cancel",
+      "date_order": "2025-07-14 07:15:05",
+      "amount_total": 50000.0
+    },
+    {
+      "id": 907,
+      "name": "P00907",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "draft",
+      "date_order": "2025-07-11 12:36:08",
+      "amount_total": 100000.0
+    },
+    {
+      "id": 906,
+      "name": "P00906",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "done",
+      "date_order": "2025-07-08 14:36:57",
+      "amount_total": 97.34
+    },
+    {
+      "id": 905,
+      "name": "P00905",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "sent",
+      "date_order": "2025-07-08 13:26:53",
+      "amount_total": 28800.0
+    },
+    {
+      "id": 904,
+      "name": "P00904",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "draft",
+      "date_order": "2025-07-08 12:54:27",
+      "amount_total": 0.0
+    },
+    {
+      "id": 903,
+      "name": "P00903",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "draft",
+      "date_order": "2025-07-08 12:48:59",
+      "amount_total": 80000.0
+    },
+    {
+      "id": 902,
+      "name": "P00902",
+      "partner_id": [
+        1355,
+        "DISCODIN"
+      ],
+      "state": "done",
+      "date_order": "2025-07-08 12:29:30",
+      "amount_total": 684000.0
+    },
+    {
+      "id": 901,
+      "name": "P00901",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "done",
+      "date_order": "2025-07-30 12:26:21",
+      "amount_total": 95443.27
+    },
+    {
+      "id": 900,
+      "name": "P00900",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "draft",
+      "date_order": "2025-09-30 12:18:04",
+      "amount_total": 0.0
+    }
+  ],
+  "sale.order": [
+    {
+      "id": 3904,
+      "name": "S03903",
+      "partner_id": [
+        2810,
+        "Mr NAINA"
+      ],
+      "amount_total": 1.2,
+      "state": "draft",
+      "date_order": "2025-07-09 12:40:11"
+    },
+    {
+      "id": 3807,
+      "name": "S03806",
+      "partner_id": [
+        2372,
+        "TALYS"
+      ],
+      "amount_total": 138086.4,
+      "state": "sale",
+      "date_order": "2025-07-04 14:17:24"
+    },
+    {
+      "id": 3902,
+      "name": "S03901",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 279979.2,
+      "state": "sale",
+      "date_order": "2025-07-04 14:15:23"
+    },
+    {
+      "id": 3806,
+      "name": "S03805",
+      "partner_id": [
+        1802,
+        "DEROSSIS Christian"
+      ],
+      "amount_total": 683414.4,
+      "state": "sale",
+      "date_order": "2025-07-04 14:07:37"
+    },
+    {
+      "id": 3714,
+      "name": "S03713",
+      "partner_id": [
+        22228,
+        "MOSQUEE KHODJA MJN"
+      ],
+      "amount_total": 374769.6,
+      "state": "sale",
+      "date_order": "2025-07-04 14:05:34"
+    },
+    {
+      "id": 3549,
+      "name": "S03548",
+      "partner_id": [
+        985,
+        "DIRECTION TECHNIQUE"
+      ],
+      "amount_total": 572242.0,
+      "state": "sale",
+      "date_order": "2025-07-04 14:00:49"
+    },
+    {
+      "id": 3898,
+      "name": "S03897",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 548782.18,
+      "state": "sale",
+      "date_order": "2025-07-04 13:38:58"
+    },
+    {
+      "id": 3813,
+      "name": "S03812",
+      "partner_id": [
+        2198,
+        "APAVE MADAGASCAR"
+      ],
+      "amount_total": 642172.8,
+      "state": "sale",
+      "date_order": "2025-07-04 13:37:56"
+    },
+    {
+      "id": 3897,
+      "name": "S03896",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 55869.79,
+      "state": "sale",
+      "date_order": "2025-07-04 13:35:04"
+    },
+    {
+      "id": 3896,
+      "name": "S03895",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 218220.8,
+      "state": "sale",
+      "date_order": "2025-07-04 13:28:12"
+    },
+    {
+      "id": 3792,
+      "name": "S03791",
+      "partner_id": [
+        2751,
+        "HUILERIE INDUSTRIELLE DE TAMATAVE - HITA SARL"
+      ],
+      "amount_total": 7724514.24,
+      "state": "sale",
+      "date_order": "2025-07-04 13:27:11"
+    },
+    {
+      "id": 3895,
+      "name": "S03894",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 326536.51,
+      "state": "sale",
+      "date_order": "2025-07-04 13:20:46"
+    },
+    {
+      "id": 3894,
+      "name": "S03893",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 113198.5,
+      "state": "sale",
+      "date_order": "2025-07-04 12:54:55"
+    },
+    {
+      "id": 3793,
+      "name": "S03792",
+      "partner_id": [
+        1085,
+        "RAZAFINDRAIBE Thierry"
+      ],
+      "amount_total": 3900000.0,
+      "state": "sale",
+      "date_order": "2025-07-04 11:35:37"
+    },
+    {
+      "id": 3871,
+      "name": "S03870",
+      "partner_id": [
+        22214,
+        "MOUCTAR ZAMAZAMA"
+      ],
+      "amount_total": 405492.3,
+      "state": "sale",
+      "date_order": "2025-07-04 11:16:22"
+    },
+    {
+      "id": 3771,
+      "name": "S03770",
+      "partner_id": [
+        2751,
+        "HUILERIE INDUSTRIELLE DE TAMATAVE - HITA SARL"
+      ],
+      "amount_total": 15351985.32,
+      "state": "sale",
+      "date_order": "2025-07-04 10:07:09"
+    },
+    {
+      "id": 3903,
+      "name": "S03902",
+      "partner_id": [
+        21346,
+        "Akthar RASSAY"
+      ],
+      "amount_total": 58182197.4,
+      "state": "new",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3901,
+      "name": "S03900",
+      "partner_id": [
+        22408,
+        "Herilalaina RAMIHARISOA"
+      ],
+      "amount_total": 25295782.44,
+      "state": "new",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3900,
+      "name": "S03899",
+      "partner_id": [
+        2583,
+        "MR DAVID VIENNE"
+      ],
+      "amount_total": 180874480.2,
+      "state": "draft",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3899,
+      "name": "S03898",
+      "partner_id": [
+        21346,
+        "Akthar RASSAY"
+      ],
+      "amount_total": 115583226.84,
+      "state": "new",
+      "date_order": "2025-07-04 00:00:00"
+    }
+  ],
+  "res.partner": [
+    {
+      "id": 1427,
+      "name": "(MAMY PIVAROKAZO) RANDRIAMIAMISON",
+      "email": false,
+      "phone": "+261 34 16 509 50",
+      "is_company": true,
+      "customer_rank": 0
+    },
+    {
+      "id": 2732,
+      "name": "(NAR)  Guide Construction",
+      "email": false,
+      "phone": false,
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 2733,
+      "name": "(NAR) RAKOTONDRAMANANA Gino",
+      "email": false,
+      "phone": "+261 34 61 639 92",
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 2919,
+      "name": "(Nar) ABDOUL",
+      "email": "rayantradingcompany786@gmail.com",
+      "phone": "+261 34 24 903 36",
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 2800,
+      "name": "(Nar) FABRICE RAMAMONJISOA",
+      "email": false,
+      "phone": "+261 34 41 736 85",
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 2888,
+      "name": "(Nar) RAMAMONJISOA FABRICE",
+      "email": false,
+      "phone": "+261 34 41 736 86",
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 2894,
+      "name": "(Nar)Dina",
+      "email": "jdina7@yahoo.fr",
+      "phone": "+261 33 37 791 37",
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 21242,
+      "name": "(TIS) Andrianasolo Andry",
+      "email": false,
+      "phone": "+261 34 51 432 66",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 21249,
+      "name": "(TIS) MR Desi",
+      "email": false,
+      "phone": "0386032611",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 21247,
+      "name": "(TIS)MR Fetra",
+      "email": false,
+      "phone": "+261 33 60 545 65",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 21245,
+      "name": "(TIS)MR Gilbert Ambinitsoa",
+      "email": false,
+      "phone": "+261 34 59 699 51",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 21267,
+      "name": "(TIS)Rakotoarison Sambatra",
+      "email": "sambatrah@yahoo.fr",
+      "phone": "+261 32 02 472 31",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 3005,
+      "name": "-\tFabien  MALALAHARIMANANA",
+      "email": false,
+      "phone": false,
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 3004,
+      "name": "-\tMiah'ty  KOTOARIJAONA",
+      "email": "-\tfalirakotoarijaona@gmail.com",
+      "phone": "+261 34 60 794 63",
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 22259,
+      "name": "4091",
+      "email": false,
+      "phone": false,
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 2837,
+      "name": "AARAY",
+      "email": false,
+      "phone": false,
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 2031,
+      "name": "ABASS IMPORTER",
+      "email": false,
+      "phone": "ANTERIEUR",
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 2210,
+      "name": "ABASS Sakotaly",
+      "email": false,
+      "phone": "ANTERIEUR",
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 3096,
+      "name": "ABASSE TULEAR",
+      "email": false,
+      "phone": "+261 34 84 276 43",
+      "is_company": false,
+      "customer_rank": 2
+    },
+    {
+      "id": 1050,
+      "name": "ABC",
+      "email": "arson.raharijaona@abc.mg",
+      "phone": "+261 34 08 631 80",
+      "is_company": true,
+      "customer_rank": 10
+    },
+    {
+      "id": 2211,
+      "name": "ABDALAH",
+      "email": false,
+      "phone": "ANTERIEUR",
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 3103,
+      "name": "ABDALLAH Fatema",
+      "email": false,
+      "phone": false,
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 1109,
+      "name": "ABDOOLLAH Feizal Mohammad",
+      "email": false,
+      "phone": "+261 34 14 267 86",
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 1957,
+      "name": "ABDOU Raomany",
+      "email": false,
+      "phone": "ANTERIEUR",
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 1958,
+      "name": "ABDOUL HASSANALY",
+      "email": false,
+      "phone": "ANTERIEUR",
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 3227,
+      "name": "ABDOURAHIM FATOUMIA",
+      "email": false,
+      "phone": false,
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 3080,
+      "name": "ABECCO",
+      "email": "bandrianasolo@gmail.com",
+      "phone": "+261 34 14 081 04",
+      "is_company": true,
+      "customer_rank": 0
+    },
+    {
+      "id": 21448,
+      "name": "ABHIJIT OUKABAY",
+      "email": false,
+      "phone": "ANTERIEUR",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 21563,
+      "name": "ABK",
+      "email": false,
+      "phone": "+261 34 02 303 00",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 1029,
+      "name": "ACADE SARL",
+      "email": "acade@acade.mg",
+      "phone": "+261 32 11 160 70",
+      "is_company": true,
+      "customer_rank": 3
+    },
+    {
+      "id": 2189,
+      "name": "ACF",
+      "email": false,
+      "phone": false,
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 1556,
+      "name": "ACHDJIAN Tsoline",
+      "email": "tsoline.k@orange.fr",
+      "phone": "0383456520",
+      "is_company": false,
+      "customer_rank": 12
+    },
+    {
+      "id": 1594,
+      "name": "ACTION MISSIONNAIRE POUR LA FRANCOPHONIE - AMF/AEF",
+      "email": "caf.daniel.amf@gmail.com",
+      "phone": "+261 34 99 105 05",
+      "is_company": true,
+      "customer_rank": 7
+    },
+    {
+      "id": 3053,
+      "name": "ACTIVE ASSURANCE",
+      "email": false,
+      "phone": "+261 32 05 815 77",
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 2952,
+      "name": "ACTIVE ASSURANCES",
+      "email": "hrafalimanana@meilleurtaux.com",
+      "phone": "+261 32 05 815 77",
+      "is_company": true,
+      "customer_rank": 8
+    },
+    {
+      "id": 3072,
+      "name": "ACTIVO",
+      "email": false,
+      "phone": false,
+      "is_company": true,
+      "customer_rank": 0
+    },
+    {
+      "id": 972,
+      "name": "AD2 ARCHITECTES SARL",
+      "email": "ad2archi.mamy@moov.mg",
+      "phone": "+261 34 11 456 44",
+      "is_company": true,
+      "customer_rank": 9
+    },
+    {
+      "id": 21956,
+      "name": "ADEFI SANTE",
+      "email": "aina.rasoamanaarivo@adefisante.org",
+      "phone": "+261 34 11 029 12",
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 1701,
+      "name": "ADNANE",
+      "email": false,
+      "phone": "+261 32 75 932 02",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 1702,
+      "name": false,
+      "email": false,
+      "phone": false,
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 2488,
+      "name": "ADOUM MAIGAOU MARTADE",
+      "email": "vincentmartade@yahoo.fr",
+      "phone": "+261 32 30 527 25",
+      "is_company": false,
+      "customer_rank": 12
+    },
+    {
+      "id": 3065,
+      "name": "AEROPORTS DE MADAGASCAR SA",
+      "email": false,
+      "phone": false,
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 1483,
+      "name": "AEROPUB SA",
+      "email": false,
+      "phone": "+261 20 22 568 77",
+      "is_company": true,
+      "customer_rank": 0
+    },
+    {
+      "id": 1097,
+      "name": "AFI ASSURANCES MADAGASCAR",
+      "email": "rhenintsoa@afiassurances.fr",
+      "phone": "+261 32 05 322 25",
+      "is_company": true,
+      "customer_rank": 10
+    },
+    {
+      "id": 3165,
+      "name": "AFRIPOWER MANDROSEZA SA",
+      "email": false,
+      "phone": false,
+      "is_company": true,
+      "customer_rank": 0
+    },
+    {
+      "id": 2049,
+      "name": "AGA JAILANY",
+      "email": "aga@jovenna.mg",
+      "phone": "+261 34 07 202 37",
+      "is_company": false,
+      "customer_rank": 12
+    },
+    {
+      "id": 1454,
+      "name": "AGENCE FRANCAISE DE DEVELOPPEMENT - AFD",
+      "email": "rafetiarisont.ext@afd.fr",
+      "phone": "+261 32 85 561 75",
+      "is_company": true,
+      "customer_rank": 5
+    },
+    {
+      "id": 1513,
+      "name": "AGENCE PARTICULIERE SARL",
+      "email": "michael@agence-particuliere.com",
+      "phone": "+261 34 94 529 00",
+      "is_company": true,
+      "customer_rank": 3
+    },
+    {
+      "id": 1852,
+      "name": "AGRICOM",
+      "email": "maintenance@terra.mg",
+      "phone": "+261 32 11 773 58",
+      "is_company": true,
+      "customer_rank": 3
+    },
+    {
+      "id": 2188,
+      "name": "AGRIFARM",
+      "email": "lova.rakotohasimbola@agrifarm.mg",
+      "phone": "038 06 371 94",
+      "is_company": true,
+      "customer_rank": 5
+    }
+  ],
+  "stock.quant": [
+    {
+      "id": 1813,
+      "product_id": [
+        919,
+        "[AHTE3001] LAME 60"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1814,
+      "product_id": [
+        926,
+        "[AHTE3011] LAME FINALE 60"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1815,
+      "product_id": [
+        942,
+        "[ALCF50-100] F42.4 SUPPORT COLUMN"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1816,
+      "product_id": [
+        943,
+        "[ALCF50-106] SUPPORT COLUMN 40X40 - POTEAU CARRE"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1817,
+      "product_id": [
+        1818,
+        "[ALCF50-109] SUPPORT COLUMN 40X40 (NO CAP)"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1819,
+      "product_id": [
+        944,
+        "[ALCF50-200] ROUND HANDRAIL D50"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1820,
+      "product_id": [
+        936,
+        "[ALCF50-203] DIVIDABLE HANDRAIL F50.30X80"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1821,
+      "product_id": [
+        937,
+        "[ALCF50-223] COV.FOR DIV.HANDR.F50-203"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1822,
+      "product_id": [
+        938,
+        "[ALCF50-300] PROFILE D16X1.3 "
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1823,
+      "product_id": [
+        939,
+        "[ALCF50-302] PROFILE SQUARE 16X16X2 "
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    }
+  ],
+  "product.template": [
+    {
+      "id": 9436,
+      "name": "\" T \" CONNECTEUR POUR TRAVERSE",
+      "list_price": 1.0,
+      "default_code": "ALC272-257",
+      "qty_available": 20.0,
+      "virtual_available": 20.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "AALC272-0257"
+    },
+    {
+      "id": 9437,
+      "name": "\" Г \" ANGLE DE CONNECTION POUR TRAVERSE",
+      "list_price": 1.0,
+      "default_code": "ALC272-258",
+      "qty_available": 34.0,
+      "virtual_available": 34.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "AALC272-0258"
+    },
+    {
+      "id": 21130,
+      "name": "(cid:140)il de b(cid:156)uf fixe",
+      "list_price": 1.0,
+      "default_code": "52443PT MA02",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "sage_ref": "52443PT MA02"
+    },
+    {
+      "id": 13941,
+      "name": "(cid:201)metteur",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": "N/A"
+    },
+    {
+      "id": 13259,
+      "name": "025D FAST NORM PAUMELLE",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 2288.0,
+      "virtual_available": 2288.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "APBSY025DFNP"
+    },
+    {
+      "id": 6078,
+      "name": "1 Fft- Aménagement de 45 salles de bain, d’un lot de :",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": "N/A"
+    },
+    {
+      "id": 24961,
+      "name": "10799PR-O lot F10799PR-O FAB HOUSSEN AMICAL         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 24956,
+      "name": "10799PR-O lot F10799PR-O FAB HOUSSEN AMICAL         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 22941,
+      "name": "10799PR-O lot F10799PR-O FAB HOUSSEN AMICAL         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 22620,
+      "name": "10799PR-O lot F10799PR-O FAB HOUSSEN AMICAL         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 24110,
+      "name": "10799PR-O lot F10799PR-O FAB HOUSSEN AMICAL         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 20289,
+      "name": "12MMTREMP3",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 24557,
+      "name": "12MMTREMP4",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 24558,
+      "name": "12MMTREMP4",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 24528,
+      "name": "12MMTRP",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 9924,
+      "name": "150X150 POLE (TUBE)",
+      "list_price": 1.0,
+      "default_code": "XIJPL1515",
+      "qty_available": 16.0,
+      "virtual_available": 16.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        29,
+        "Tous / Matière première / Menuiserie / PROFILE"
+      ],
+      "sage_ref": "PXIJPOL150X150"
+    },
+    {
+      "id": 13786,
+      "name": "2 BEQUILLES + ROSACE INOX",
+      "list_price": 1.0,
+      "default_code": "ASSV770.15",
+      "qty_available": 2.0,
+      "virtual_available": 1.0,
+      "outgoing_qty": 1.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "AASSV770.15"
+    },
+    {
+      "id": 9934,
+      "name": "230 FIXING BASE OF POLE",
+      "list_price": 1.0,
+      "default_code": "XIJ230FBOP",
+      "qty_available": 16.0,
+      "virtual_available": 16.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "AXIJFXBOP"
+    },
+    {
+      "id": 15866,
+      "name": "23821DR-F lot F23821DR-F FAB COMETA                 ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 9889,
+      "name": "26555 LOUVER BLABE 3.85m",
+      "list_price": 1.0,
+      "default_code": "XIJ26555",
+      "qty_available": 37.0,
+      "virtual_available": 37.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        29,
+        "Tous / Matière première / Menuiserie / PROFILE"
+      ],
+      "sage_ref": "PXIJ26555LVRBLD"
+    },
+    {
+      "id": 16067,
+      "name": "2K EP ACTIVATOR 1L",
+      "list_price": 1.0,
+      "default_code": "BCOBCM950-1",
+      "qty_available": 0.0,
+      "virtual_available": 5.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "NBCOBCM950"
+    },
+    {
+      "id": 11098,
+      "name": "2K EP PRIMER STANAG 4360 5KG",
+      "list_price": 1.0,
+      "default_code": "BCOBCM10.020",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "NBCOBCM10.020"
+    },
+    {
+      "id": 11101,
+      "name": "2K EP THINNER 5L",
+      "list_price": 1.0,
+      "default_code": "BCOBCM680-5",
+      "qty_available": 0.0,
+      "virtual_available": 10.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "NBCOBCM680/5"
+    },
+    {
+      "id": 11102,
+      "name": "2K IMC ACTIVATOR HS SLOW 5L LOT : 1453026",
+      "list_price": 1.0,
+      "default_code": "BCOBCM741-5",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "NBCOBCM741/5"
+    },
+    {
+      "id": 12539,
+      "name": "3.9X16",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 11960,
+      "name": "30016PR-C lot F30016PR-C FAB MAMOD -METAPLASCO      ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 9194,
+      "name": "30016PR-D lot F30016PR-D FAB MAMOD                  ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 15225,
+      "name": "36147PH-C lot F36147PH-C FAB MIALY                  ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 15223,
+      "name": "36147PH-C lot F36147PH-C FAB MIALY                  ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 15668,
+      "name": "36147PH-C lot F36147PH-C FAB MIALY                  ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 15224,
+      "name": "36147PH-C lot F36147PH-C FAB MIALY                  ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 15673,
+      "name": "36147PH-C lot F36147PH-C FAB MIALY                  ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 19662,
+      "name": "40057PR-C lot F40057PR-C FAB TOMBOLAZA ARISTHOPHANE ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 16029,
+      "name": "40157DH lot F40157DH   FAB COMETA                 ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 25009,
+      "name": "41479DR-D lot F41479DR-D FAB CITYZEN IMMOBILIER     ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 26638,
+      "name": "41479DR-E lot F41479DR-E FAB CITYZEN IMMOBILIER     ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 10467,
+      "name": "41598PH-A lot F41598PH-A FAB GERMAIN DGI            ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 19331,
+      "name": "42061PH-A lot F42061PH-A FAB RANDRIAMANANJARA CAMILL",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 17373,
+      "name": "42502PM-C lot F42502PM-C FAB PLATEFORME 207         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 20093,
+      "name": "42656PM-C lot F42656PM-C FAB BRICODIS               ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 4364,
+      "name": "42772PR-E lot F42772PR-E FAB MAMY RAKONANDRIA       ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 8063,
+      "name": "42780DR-C lot F42780DR-C FAB CITYZEN                ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 24237,
+      "name": "42780DR-D lot F42780DR-D CITYZEN IMMOBILIER         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 28207,
+      "name": "42858PR-C lot F42858PR-C FAB CITYZEN IMMOBILIER     ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 28044,
+      "name": "43681PR-G lot F43681PR-G FAB FAYAZ KARIM            ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 28162,
+      "name": "43681PR-G lot F43681PR-G FAB FAYAZ KARIM            ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 11658,
+      "name": "43699PM-C lot F43699PM-C FAB BRICODIS               ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 9308,
+      "name": "44218PM-A lot F44218PM-A FAB SALMAN                 ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 7023,
+      "name": "44750PK-K lot F44750PK-K FAB MAXIME AUGUSTE         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 7989,
+      "name": "44750PK-K lot F44750PK-K FAB MAXIME AUGUSTE         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    }
+  ],
+  "stock.move": [
+    {
+      "id": 937,
+      "product_id": [
+        1879,
+        "[46036PM-A MA01] Ensemble(s) comprenant : 3825 1900"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 976,
+      "product_id": [
+        1821,
+        "[50350DM-A VR01] Volet roulant motorisé"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 979,
+      "product_id": [
+        1882,
+        "[50547DM SAV01] Remplacement vitrage cassé sur porte 1vtl"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 981,
+      "product_id": [
+        1857,
+        "[45353PR-D MA08] Ensemble(s) comprenant en angle : 6195 2000"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1099,
+      "product_id": [
+        2116,
+        "[45471PK-D ST01] STORE CALIFORNIEN"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 1313,
+      "product_id": [
+        2186,
+        "[46259DK GC01] Garde corps vitrée F50-Horizon frame- rampant"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 1324,
+      "product_id": [
+        2783,
+        "[50165DR-A RM01] Rideau métallique manuel"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1326,
+      "product_id": [
+        2053,
+        "[50409PR-B MA01] Ouvrant coulissant 3 vtx sur 3 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1382,
+      "product_id": [
+        1929,
+        "[46259DK GC01] Garde corps vitrée F50-Horizon frame- rampant"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 1584,
+      "product_id": [
+        1972,
+        "[50451PM MA01] Ouvrant coulissant 3 vtx sur 3 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1587,
+      "product_id": [
+        2101,
+        "[50388PM MA01] Ouvrant coulissant 3 vtx sur 3 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1649,
+      "product_id": [
+        2652,
+        "[45651PR-B MA01] Ouvrant coulissant 2 vtx sur 2 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1852,
+      "product_id": [
+        2141,
+        "[44750PK-J MA01] Châssis fixe"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1929,
+      "product_id": [
+        2897,
+        "[44834DK-B RM01] Toiture en verre: 3760 1400"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1977,
+      "product_id": [
+        2889,
+        "[50372PR MA01] Ouvrant coulissant 2 vtx sur 2 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1997,
+      "product_id": [
+        1963,
+        "[46385PK-C MA01] Ouvrant coulissant 4 vtx sur 2 rails"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 2021,
+      "product_id": [
+        2103,
+        "[45481PR-C MA01] Châssis fixe"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2216,
+      "product_id": [
+        2622,
+        "[46343PR MA01] Châssis fixe"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2228,
+      "product_id": [
+        2651,
+        "[45296DR-C PO01] Porte sur pivot en verre trempé 2Vtx"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 2230,
+      "product_id": [
+        2694,
+        "[42772PR-E MA06] Ouvrant coulissant 3 vtx sur 3 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2254,
+      "product_id": [
+        2704,
+        "[50197PR-A MA01] Châssis fixe"
+      ],
+      "product_uom_qty": 5.0
+    },
+    {
+      "id": 2284,
+      "product_id": [
+        2185,
+        "[50355DK PS01] Porte sectionnelle"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2291,
+      "product_id": [
+        1905,
+        "[50486PK-A MA01] Ouvrant coulissant 2 vtx sur 2 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2417,
+      "product_id": [
+        3068,
+        "[41055DR-K GC01] Garde corps en verre"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2459,
+      "product_id": [
+        3093,
+        "[42780DR-C PF01] PAROI FIXE"
+      ],
+      "product_uom_qty": 6.0
+    },
+    {
+      "id": 2469,
+      "product_id": [
+        3456,
+        "[41479DR-D MR01] Puit de lumière"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2477,
+      "product_id": [
+        3452,
+        "[42858PR-A MA01] Soufflet 2305 Portefeille etroite"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 2524,
+      "product_id": [
+        3233,
+        "[50835DR GC01] Garde corps vitrée F50-Horizon frame"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2534,
+      "product_id": [
+        1918,
+        "[46387DK-B VR01] Volet roulant motorisé"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 2687,
+      "product_id": [
+        3407,
+        "[42955DR-E RM01] Rideau métallique motorisé"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2711,
+      "product_id": [
+        3140,
+        "[46077DM-B GC01] Garde corps barreaudé F50-Vertical Q"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2733,
+      "product_id": [
+        3109,
+        "[50209PK-B MA01] Ouvrant coulissant 2 vtx sur 2 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2734,
+      "product_id": [
+        3099,
+        "[46249DR-B VT01] Vitre Feuilletée claire 44.2"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2865,
+      "product_id": [
+        3106,
+        "[50569DR-A MS01] Moustiquaire enroulable"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 2952,
+      "product_id": [
+        3754,
+        "[50888PR MA01] Ouvrant coulissant 2 vtx sur 2 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2956,
+      "product_id": [
+        3416,
+        "[46198DR-B VR01] Volet roulant motorisé"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2968,
+      "product_id": [
+        3422,
+        "[46200PR-D MA01] Galandage 6vtx face à face sur 3rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2998,
+      "product_id": [
+        3562,
+        "[46218PR-C MA01] Châssis fixe"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3018,
+      "product_id": [
+        3415,
+        "[34794GR-C RM01] RIDEAU METALLIQUE MOTORISE"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3087,
+      "product_id": [
+        3791,
+        "[45911PR-C MALU01] Ensemble(s) comprenant : 3860 3250"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 3112,
+      "product_id": [
+        3816,
+        "[41960PR-G MA01] Fenêtre OF 2vtx 2305+2306 Portefeille"
+      ],
+      "product_uom_qty": 3.0
+    },
+    {
+      "id": 3234,
+      "product_id": [
+        3352,
+        "[50549PM-B MA01] Châssis fixe"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3236,
+      "product_id": [
+        4146,
+        "[50707VM SAV01] Réparation fa(cid:231)ade en mur rideau comprenant :"
+      ],
+      "product_uom_qty": 3.0
+    },
+    {
+      "id": 3238,
+      "product_id": [
+        4118,
+        "[45737DR MA01] Ensemble(s) comprenant : 3270 2700"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3242,
+      "product_id": [
+        3911,
+        "[46464DM-B HB01] Habillage en panneau ACP Noir"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3246,
+      "product_id": [
+        4115,
+        "[46478DR VR01] Volet roulant motorisé"
+      ],
+      "product_uom_qty": 3.0
+    },
+    {
+      "id": 3250,
+      "product_id": [
+        4117,
+        "[50620PR MA01] Ouvrant coulissant 3 vtx sur 3 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3298,
+      "product_id": [
+        1986,
+        "[40399DH-H RM01] Rideau métallique motorisé"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3327,
+      "product_id": [
+        4212,
+        "[50324DR-C DIV] Main d’oeuvre pour:"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3337,
+      "product_id": [
+        4217,
+        "[46460DR-H MA04] Ensemble(s) comprenant : 600 2400"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3347,
+      "product_id": [
+        4222,
+        "[50642VM-A SAV01] Réparation châssis ensemble comprenant :"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3362,
+      "product_id": [
+        4232,
+        "[50596DM-A SAV01] Main d’oeuvre pour :"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3378,
+      "product_id": [
+        3460,
+        "[45048DK-B HB] Plaque ACP noir à coller"
+      ],
+      "product_uom_qty": 7.0
+    },
+    {
+      "id": 3384,
+      "product_id": [
+        3664,
+        "[50867VK SAV01] Réparation d’un rideau métallique comprenant:"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3417,
+      "product_id": [
+        4224,
+        "[50356DM-B MA01] Verre trempé 8mm clair  - PROMOTION"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 3460,
+      "product_id": [
+        3235,
+        "[50630VM-A SAV01] Réparation d’un rideau métallique comprenant :"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3462,
+      "product_id": [
+        2984,
+        "[50266DR-A RM01] Rideau métallique manuel"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3468,
+      "product_id": [
+        2986,
+        "[50265PR-B MA01] Châssis fixe"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3474,
+      "product_id": [
+        2950,
+        "[50814GM SAV01] Remplacement lame alu blanc pour volet roulant :"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3497,
+      "product_id": [
+        4148,
+        "[50895VK SAV01] Réparation volet roulant comprenant:"
+      ],
+      "product_uom_qty": 1.0
+    }
+  ],
+  "product.product": [
+    {
+      "id": 3239,
+      "name": "Ensemble(s) comprenant : 3660 2250",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA01",
+      "sage_color": false
+    },
+    {
+      "id": 3240,
+      "name": "Ensemble(s) comprenant : 3230 2250",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA02",
+      "sage_color": false
+    },
+    {
+      "id": 3241,
+      "name": "Ensemble(s) comprenant : 2500 2250",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA03",
+      "sage_color": false
+    },
+    {
+      "id": 3242,
+      "name": "Ensemble(s) comprenant : 2210 2270",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA04",
+      "sage_color": false
+    },
+    {
+      "id": 3243,
+      "name": "Ensemble(s) comprenant : 2240 2260",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA05",
+      "sage_color": false
+    },
+    {
+      "id": 3244,
+      "name": "Ouvrant coulissant 3 vtx sur 3 rails",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA06",
+      "sage_color": false
+    },
+    {
+      "id": 3246,
+      "name": "Ouvrant coulissant 3 vtx sur 3 rails",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA07",
+      "sage_color": false
+    },
+    {
+      "id": 3248,
+      "name": "Ouvrant coulissant 2 vtx sur 2 rails",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA08",
+      "sage_color": false
+    },
+    {
+      "id": 3250,
+      "name": "Ensemble(s) comprenant : 500 1755",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA09",
+      "sage_color": false
+    },
+    {
+      "id": 3251,
+      "name": "Ouvrant coulissant 2 vtx sur 2 rails",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA10",
+      "sage_color": false
+    }
+  ]
+}
