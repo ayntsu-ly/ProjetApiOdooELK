@@ -1,0 +1,6679 @@
+{
+  "purchase.order": [
+    {
+      "id": 909,
+      "name": "P00909",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "cancel",
+      "date_order": "2025-07-14 08:20:21",
+      "amount_total": 0.0
+    },
+    {
+      "id": 908,
+      "name": "P00908",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "cancel",
+      "date_order": "2025-07-14 07:15:05",
+      "amount_total": 50000.0
+    },
+    {
+      "id": 907,
+      "name": "P00907",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "draft",
+      "date_order": "2025-07-11 12:36:08",
+      "amount_total": 100000.0
+    },
+    {
+      "id": 906,
+      "name": "P00906",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "done",
+      "date_order": "2025-07-08 14:36:57",
+      "amount_total": 97.34
+    },
+    {
+      "id": 905,
+      "name": "P00905",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "sent",
+      "date_order": "2025-07-08 13:26:53",
+      "amount_total": 28800.0
+    },
+    {
+      "id": 904,
+      "name": "P00904",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "draft",
+      "date_order": "2025-07-08 12:54:27",
+      "amount_total": 0.0
+    },
+    {
+      "id": 903,
+      "name": "P00903",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "draft",
+      "date_order": "2025-07-08 12:48:59",
+      "amount_total": 80000.0
+    },
+    {
+      "id": 902,
+      "name": "P00902",
+      "partner_id": [
+        1355,
+        "DISCODIN"
+      ],
+      "state": "done",
+      "date_order": "2025-07-08 12:29:30",
+      "amount_total": 684000.0
+    },
+    {
+      "id": 901,
+      "name": "P00901",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "done",
+      "date_order": "2025-07-30 12:26:21",
+      "amount_total": 95443.27
+    },
+    {
+      "id": 900,
+      "name": "P00900",
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "state": "draft",
+      "date_order": "2025-09-30 12:18:04",
+      "amount_total": 0.0
+    }
+  ],
+  "sale.order": [
+    {
+      "id": 3904,
+      "name": "S03903",
+      "partner_id": [
+        2810,
+        "Mr NAINA"
+      ],
+      "amount_total": 1.2,
+      "state": "draft",
+      "date_order": "2025-07-09 12:40:11"
+    },
+    {
+      "id": 3807,
+      "name": "S03806",
+      "partner_id": [
+        2372,
+        "TALYS"
+      ],
+      "amount_total": 138086.4,
+      "state": "sale",
+      "date_order": "2025-07-04 14:17:24"
+    },
+    {
+      "id": 3902,
+      "name": "S03901",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 279979.2,
+      "state": "sale",
+      "date_order": "2025-07-04 14:15:23"
+    },
+    {
+      "id": 3806,
+      "name": "S03805",
+      "partner_id": [
+        1802,
+        "DEROSSIS Christian"
+      ],
+      "amount_total": 683414.4,
+      "state": "sale",
+      "date_order": "2025-07-04 14:07:37"
+    },
+    {
+      "id": 3714,
+      "name": "S03713",
+      "partner_id": [
+        22228,
+        "MOSQUEE KHODJA MJN"
+      ],
+      "amount_total": 374769.6,
+      "state": "sale",
+      "date_order": "2025-07-04 14:05:34"
+    },
+    {
+      "id": 3549,
+      "name": "S03548",
+      "partner_id": [
+        985,
+        "DIRECTION TECHNIQUE"
+      ],
+      "amount_total": 572242.0,
+      "state": "sale",
+      "date_order": "2025-07-04 14:00:49"
+    },
+    {
+      "id": 3898,
+      "name": "S03897",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 548782.18,
+      "state": "sale",
+      "date_order": "2025-07-04 13:38:58"
+    },
+    {
+      "id": 3813,
+      "name": "S03812",
+      "partner_id": [
+        2198,
+        "APAVE MADAGASCAR"
+      ],
+      "amount_total": 642172.8,
+      "state": "sale",
+      "date_order": "2025-07-04 13:37:56"
+    },
+    {
+      "id": 3897,
+      "name": "S03896",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 55869.79,
+      "state": "sale",
+      "date_order": "2025-07-04 13:35:04"
+    },
+    {
+      "id": 3896,
+      "name": "S03895",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 218220.8,
+      "state": "sale",
+      "date_order": "2025-07-04 13:28:12"
+    },
+    {
+      "id": 3792,
+      "name": "S03791",
+      "partner_id": [
+        2751,
+        "HUILERIE INDUSTRIELLE DE TAMATAVE - HITA SARL"
+      ],
+      "amount_total": 7724514.24,
+      "state": "sale",
+      "date_order": "2025-07-04 13:27:11"
+    },
+    {
+      "id": 3895,
+      "name": "S03894",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 326536.51,
+      "state": "sale",
+      "date_order": "2025-07-04 13:20:46"
+    },
+    {
+      "id": 3894,
+      "name": "S03893",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 113198.5,
+      "state": "sale",
+      "date_order": "2025-07-04 12:54:55"
+    },
+    {
+      "id": 3793,
+      "name": "S03792",
+      "partner_id": [
+        1085,
+        "RAZAFINDRAIBE Thierry"
+      ],
+      "amount_total": 3900000.0,
+      "state": "sale",
+      "date_order": "2025-07-04 11:35:37"
+    },
+    {
+      "id": 3871,
+      "name": "S03870",
+      "partner_id": [
+        22214,
+        "MOUCTAR ZAMAZAMA"
+      ],
+      "amount_total": 405492.3,
+      "state": "sale",
+      "date_order": "2025-07-04 11:16:22"
+    },
+    {
+      "id": 3771,
+      "name": "S03770",
+      "partner_id": [
+        2751,
+        "HUILERIE INDUSTRIELLE DE TAMATAVE - HITA SARL"
+      ],
+      "amount_total": 15351985.32,
+      "state": "sale",
+      "date_order": "2025-07-04 10:07:09"
+    },
+    {
+      "id": 3903,
+      "name": "S03902",
+      "partner_id": [
+        21346,
+        "Akthar RASSAY"
+      ],
+      "amount_total": 58182197.4,
+      "state": "new",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3901,
+      "name": "S03900",
+      "partner_id": [
+        22408,
+        "Herilalaina RAMIHARISOA"
+      ],
+      "amount_total": 25295782.44,
+      "state": "new",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3900,
+      "name": "S03899",
+      "partner_id": [
+        2583,
+        "MR DAVID VIENNE"
+      ],
+      "amount_total": 180874480.2,
+      "state": "draft",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3899,
+      "name": "S03898",
+      "partner_id": [
+        21346,
+        "Akthar RASSAY"
+      ],
+      "amount_total": 115583226.84,
+      "state": "new",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3893,
+      "name": "S03892",
+      "partner_id": [
+        22271,
+        "BEPA"
+      ],
+      "amount_total": 93842617.32,
+      "state": "draft",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3891,
+      "name": "S03890",
+      "partner_id": [
+        22325,
+        "Narindra Rabetsitohaina"
+      ],
+      "amount_total": 912980.4,
+      "state": "draft",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3890,
+      "name": "S03889",
+      "partner_id": [
+        3028,
+        "TRAVAUX INTERNE"
+      ],
+      "amount_total": 15909200.4,
+      "state": "draft",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3889,
+      "name": "S03888",
+      "partner_id": [
+        1372,
+        "RAKOTOARIVONY Andriamahaveloniaina"
+      ],
+      "amount_total": 30792441.36,
+      "state": "new",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3888,
+      "name": "S03887",
+      "partner_id": [
+        1745,
+        "OCEAN TRADE"
+      ],
+      "amount_total": 12919746.0,
+      "state": "draft",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3887,
+      "name": "S03886",
+      "partner_id": [
+        22272,
+        "DEVANTURE BIRGER"
+      ],
+      "amount_total": 21074431.2,
+      "state": "draft",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3886,
+      "name": "S03885",
+      "partner_id": [
+        22272,
+        "DEVANTURE BIRGER"
+      ],
+      "amount_total": 11008279.2,
+      "state": "sent",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3884,
+      "name": "S03883",
+      "partner_id": [
+        22212,
+        "Fara RAKOTOZAFY"
+      ],
+      "amount_total": 11519169.06,
+      "state": "draft",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3883,
+      "name": "S03882",
+      "partner_id": [
+        1064,
+        "LUXOPTICA"
+      ],
+      "amount_total": 7116000.0,
+      "state": "draft",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3882,
+      "name": "S03881",
+      "partner_id": [
+        22031,
+        "HOUDA Gomez"
+      ],
+      "amount_total": 212798333.34,
+      "state": "draft",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3881,
+      "name": "S03880",
+      "partner_id": [
+        1745,
+        "OCEAN TRADE"
+      ],
+      "amount_total": 532879.2,
+      "state": "new",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3880,
+      "name": "S03879",
+      "partner_id": [
+        22368,
+        "FIANGONANA FMTA"
+      ],
+      "amount_total": 34476759.9,
+      "state": "sent",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3878,
+      "name": "S03877",
+      "partner_id": [
+        3031,
+        "Ynaety SAMBATEX"
+      ],
+      "amount_total": 47221261.08,
+      "state": "draft",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3876,
+      "name": "S03875",
+      "partner_id": [
+        22288,
+        "Tsiory ANDRIAMANANTENA"
+      ],
+      "amount_total": 13516038.0,
+      "state": "new",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3875,
+      "name": "S03874",
+      "partner_id": [
+        22288,
+        "Tsiory ANDRIAMANANTENA"
+      ],
+      "amount_total": 17475089.82,
+      "state": "new",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3874,
+      "name": "S03873",
+      "partner_id": [
+        22408,
+        "Herilalaina RAMIHARISOA"
+      ],
+      "amount_total": 15029454.96,
+      "state": "new",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3873,
+      "name": "S03872",
+      "partner_id": [
+        984,
+        "Salim M'TSOUNGA"
+      ],
+      "amount_total": 65294624.8,
+      "state": "new",
+      "date_order": "2025-07-04 00:00:00"
+    },
+    {
+      "id": 3870,
+      "name": "S03869",
+      "partner_id": [
+        984,
+        "Salim M'TSOUNGA"
+      ],
+      "amount_total": 0.0,
+      "state": "draft",
+      "date_order": "2025-07-03 14:39:04"
+    },
+    {
+      "id": 3866,
+      "name": "S03865",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 58500.0,
+      "state": "sale",
+      "date_order": "2025-07-03 12:33:56"
+    },
+    {
+      "id": 3865,
+      "name": "S03864",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 58500.0,
+      "state": "sale",
+      "date_order": "2025-07-03 12:32:17"
+    },
+    {
+      "id": 3471,
+      "name": "S03470",
+      "partner_id": [
+        1037,
+        "BOURHANE Madjid"
+      ],
+      "amount_total": 11229317.3,
+      "state": "sale",
+      "date_order": "2025-07-03 11:15:27"
+    },
+    {
+      "id": 3645,
+      "name": "S03644",
+      "partner_id": [
+        985,
+        "DIRECTION TECHNIQUE"
+      ],
+      "amount_total": 2126694.0,
+      "state": "sale",
+      "date_order": "2025-07-03 11:10:40"
+    },
+    {
+      "id": 3763,
+      "name": "S03762",
+      "partner_id": [
+        21485,
+        "DARMSY LAPHA Zavarhoussen"
+      ],
+      "amount_total": 201598828.8,
+      "state": "sale",
+      "date_order": "2025-07-03 10:07:36"
+    },
+    {
+      "id": 3840,
+      "name": "S03839",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 103920.0,
+      "state": "sale",
+      "date_order": "2025-07-03 08:20:52"
+    },
+    {
+      "id": 3835,
+      "name": "S03834",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 49238.4,
+      "state": "sale",
+      "date_order": "2025-07-03 08:06:02"
+    },
+    {
+      "id": 3834,
+      "name": "S03833",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 2333.18,
+      "state": "sale",
+      "date_order": "2025-07-03 07:55:27"
+    },
+    {
+      "id": 3582,
+      "name": "S03581",
+      "partner_id": [
+        22151,
+        "INTEREX"
+      ],
+      "amount_total": 284094.0,
+      "state": "sale",
+      "date_order": "2025-07-03 07:38:49"
+    },
+    {
+      "id": 3758,
+      "name": "S03757",
+      "partner_id": [
+        22131,
+        "ZANNOTTI Rosanna"
+      ],
+      "amount_total": 3944536.0,
+      "state": "sale",
+      "date_order": "2025-07-03 07:29:29"
+    },
+    {
+      "id": 3769,
+      "name": "S03768",
+      "partner_id": [
+        22131,
+        "ZANNOTTI Rosanna"
+      ],
+      "amount_total": 20319820.4,
+      "state": "sale",
+      "date_order": "2025-07-03 07:27:34"
+    },
+    {
+      "id": 3833,
+      "name": "S03832",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 212388.0,
+      "state": "cancel",
+      "date_order": "2025-07-03 07:18:50"
+    },
+    {
+      "id": 3700,
+      "name": "S03699",
+      "partner_id": [
+        985,
+        "DIRECTION TECHNIQUE"
+      ],
+      "amount_total": 876256.0,
+      "state": "sale",
+      "date_order": "2025-07-03 07:04:16"
+    },
+    {
+      "id": 3805,
+      "name": "S03804",
+      "partner_id": [
+        1745,
+        "OCEAN TRADE"
+      ],
+      "amount_total": 1689879.6,
+      "state": "sale",
+      "date_order": "2025-07-03 05:50:49"
+    },
+    {
+      "id": 3892,
+      "name": "S03891",
+      "partner_id": [
+        22271,
+        "BEPA"
+      ],
+      "amount_total": 584941527.72,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3885,
+      "name": "S03884",
+      "partner_id": [
+        985,
+        "DIRECTION TECHNIQUE"
+      ],
+      "amount_total": 2498045.0,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3879,
+      "name": "S03878",
+      "partner_id": [
+        3031,
+        "Ynaety SAMBATEX"
+      ],
+      "amount_total": 74610582.54,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3877,
+      "name": "S03876",
+      "partner_id": [
+        3031,
+        "Ynaety SAMBATEX"
+      ],
+      "amount_total": 24950222.04,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3872,
+      "name": "S03871",
+      "partner_id": [
+        22357,
+        "Evrard Valsin"
+      ],
+      "amount_total": 943416.24,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3869,
+      "name": "S03868",
+      "partner_id": [
+        1022,
+        "FIRST IMMO"
+      ],
+      "amount_total": 15226982.64,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3868,
+      "name": "S03867",
+      "partner_id": [
+        22345,
+        "MME MERCIA"
+      ],
+      "amount_total": 21070081.02,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3867,
+      "name": "S03866",
+      "partner_id": [
+        22333,
+        "IRYS ART"
+      ],
+      "amount_total": 1162310.4,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3864,
+      "name": "S03863",
+      "partner_id": [
+        1208,
+        "INSTITUT PASTEUR DE MADAGASCAR"
+      ],
+      "amount_total": 1596931.2,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3863,
+      "name": "S03862",
+      "partner_id": [
+        1208,
+        "INSTITUT PASTEUR DE MADAGASCAR"
+      ],
+      "amount_total": 882498.0,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3862,
+      "name": "S03861",
+      "partner_id": [
+        21552,
+        "KAUCHIK"
+      ],
+      "amount_total": 40783952.34,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3861,
+      "name": "S03860",
+      "partner_id": [
+        21552,
+        "KAUCHIK"
+      ],
+      "amount_total": 2458164.24,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3859,
+      "name": "S03858",
+      "partner_id": [
+        3233,
+        "SOCIETE E-TRANO SARLU"
+      ],
+      "amount_total": 94454875.2,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3858,
+      "name": "S03857",
+      "partner_id": [
+        22347,
+        "Toky OLIVIER"
+      ],
+      "amount_total": 2049086.22,
+      "state": "sent",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3857,
+      "name": "S03856",
+      "partner_id": [
+        1618,
+        "RG IMMOBILIER SARLU"
+      ],
+      "amount_total": 924820.2,
+      "state": "sent",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3852,
+      "name": "S03851",
+      "partner_id": [
+        21552,
+        "KAUCHIK"
+      ],
+      "amount_total": 5803077.6,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3851,
+      "name": "S03850",
+      "partner_id": [
+        21552,
+        "KAUCHIK"
+      ],
+      "amount_total": 10918252.38,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3850,
+      "name": "S03849",
+      "partner_id": [
+        21552,
+        "KAUCHIK"
+      ],
+      "amount_total": 10581063.36,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3849,
+      "name": "S03848",
+      "partner_id": [
+        22248,
+        "SOURAYA NIM"
+      ],
+      "amount_total": 19624740.48,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3848,
+      "name": "S03847",
+      "partner_id": [
+        22248,
+        "SOURAYA NIM"
+      ],
+      "amount_total": 38525315.1,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3847,
+      "name": "S03846",
+      "partner_id": [
+        22248,
+        "SOURAYA NIM"
+      ],
+      "amount_total": 17046918.24,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3846,
+      "name": "S03845",
+      "partner_id": [
+        22248,
+        "SOURAYA NIM"
+      ],
+      "amount_total": 41000935.26,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3845,
+      "name": "S03844",
+      "partner_id": [
+        22353,
+        "BAOBAB PLUS"
+      ],
+      "amount_total": 277140.0,
+      "state": "sent",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3844,
+      "name": "S03843",
+      "partner_id": [
+        22285,
+        "VANILLA"
+      ],
+      "amount_total": 8248916.64,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3839,
+      "name": "S03838",
+      "partner_id": [
+        22339,
+        "Mr VALIJAONA"
+      ],
+      "amount_total": 35238220.5,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3838,
+      "name": "S03837",
+      "partner_id": [
+        985,
+        "DIRECTION TECHNIQUE"
+      ],
+      "amount_total": 2373246.0,
+      "state": "sent",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3837,
+      "name": "S03836",
+      "partner_id": [
+        1915,
+        "SOMETO"
+      ],
+      "amount_total": 6294.0,
+      "state": "sent",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3836,
+      "name": "S03835",
+      "partner_id": [
+        3245,
+        "SOCIETE IMMOBILIERE CHERALY - SIC-SA"
+      ],
+      "amount_total": 168880.8,
+      "state": "sent",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3831,
+      "name": "S03830",
+      "partner_id": [
+        1162,
+        "ANDRIAMIALISOA Rivoniaina Manitra"
+      ],
+      "amount_total": 63226263.66,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3830,
+      "name": "S03829",
+      "partner_id": [
+        1162,
+        "ANDRIAMIALISOA Rivoniaina Manitra"
+      ],
+      "amount_total": 60769853.76,
+      "state": "draft",
+      "date_order": "2025-07-03 00:00:00"
+    },
+    {
+      "id": 3679,
+      "name": "S03678",
+      "partner_id": [
+        2751,
+        "HUILERIE INDUSTRIELLE DE TAMATAVE - HITA SARL"
+      ],
+      "amount_total": 0.0,
+      "state": "sale",
+      "date_order": "2025-07-02 13:59:21"
+    },
+    {
+      "id": 3801,
+      "name": "S03800",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 306225.6,
+      "state": "sale",
+      "date_order": "2025-07-02 07:24:19"
+    },
+    {
+      "id": 3800,
+      "name": "S03799",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 20904.0,
+      "state": "sale",
+      "date_order": "2025-07-02 07:12:56"
+    },
+    {
+      "id": 3797,
+      "name": "S03796",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 173797.2,
+      "state": "sale",
+      "date_order": "2025-07-02 07:05:33"
+    },
+    {
+      "id": 3796,
+      "name": "S03795",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 53313.6,
+      "state": "sale",
+      "date_order": "2025-07-02 06:55:52"
+    },
+    {
+      "id": 3795,
+      "name": "S03794",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 15772.8,
+      "state": "sale",
+      "date_order": "2025-07-02 06:38:02"
+    },
+    {
+      "id": 3733,
+      "name": "S03732",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 35582.4,
+      "state": "sale",
+      "date_order": "2025-07-02 05:48:25"
+    },
+    {
+      "id": 3860,
+      "name": "S03859",
+      "partner_id": [
+        985,
+        "DIRECTION TECHNIQUE"
+      ],
+      "amount_total": 2866.0,
+      "state": "sent",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3856,
+      "name": "S03855",
+      "partner_id": [
+        21575,
+        "SAS MULTISOLUTIONS, Delsad BEMOU"
+      ],
+      "amount_total": 27202887.95,
+      "state": "draft",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3855,
+      "name": "S03854",
+      "partner_id": [
+        22326,
+        "Aina RATSIRIMANANTENA"
+      ],
+      "amount_total": 12601630.08,
+      "state": "sent",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3854,
+      "name": "S03853",
+      "partner_id": [
+        22326,
+        "Aina RATSIRIMANANTENA"
+      ],
+      "amount_total": 13063701.6,
+      "state": "sent",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3853,
+      "name": "S03852",
+      "partner_id": [
+        22326,
+        "Aina RATSIRIMANANTENA"
+      ],
+      "amount_total": 15469863.84,
+      "state": "sent",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3832,
+      "name": "S03831",
+      "partner_id": [
+        21797,
+        "Mme MICHAEL RANDRIAMANANTENASOARIMANANA"
+      ],
+      "amount_total": 68777824.8,
+      "state": "draft",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3827,
+      "name": "S03826",
+      "partner_id": [
+        1332,
+        "AKADIN"
+      ],
+      "amount_total": 3641621494.8,
+      "state": "draft",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3826,
+      "name": "S03825",
+      "partner_id": [
+        1609,
+        "SOCIETE D'EXPLOITATION ET DE GESTION DE MADAGASCAR-SGEM"
+      ],
+      "amount_total": 825790.8,
+      "state": "sent",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3825,
+      "name": "S03824",
+      "partner_id": [
+        22283,
+        "Sarah TAHORA"
+      ],
+      "amount_total": 693846.0,
+      "state": "sent",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3824,
+      "name": "S03823",
+      "partner_id": [
+        22325,
+        "Narindra Rabetsitohaina"
+      ],
+      "amount_total": 512922.0,
+      "state": "draft",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3823,
+      "name": "S03822",
+      "partner_id": [
+        1915,
+        "SOMETO"
+      ],
+      "amount_total": 7093536.78,
+      "state": "sent",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3822,
+      "name": "S03821",
+      "partner_id": [
+        22256,
+        "Riana ANDRIAMBANONA"
+      ],
+      "amount_total": 33128721.72,
+      "state": "draft",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3821,
+      "name": "S03820",
+      "partner_id": [
+        22256,
+        "Riana ANDRIAMBANONA"
+      ],
+      "amount_total": 58081411.5,
+      "state": "draft",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3819,
+      "name": "S03818",
+      "partner_id": [
+        22245,
+        "Mr MAXENCE BIGEY"
+      ],
+      "amount_total": 7638997.26,
+      "state": "draft",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3818,
+      "name": "S03817",
+      "partner_id": [
+        22284,
+        "Karina DUMONT"
+      ],
+      "amount_total": 9499429.32,
+      "state": "draft",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3817,
+      "name": "S03816",
+      "partner_id": [
+        22284,
+        "Karina DUMONT"
+      ],
+      "amount_total": 10423602.6,
+      "state": "draft",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3816,
+      "name": "S03815",
+      "partner_id": [
+        1436,
+        "Mr Rayan DELVALE"
+      ],
+      "amount_total": 8212715.28,
+      "state": "draft",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3815,
+      "name": "S03814",
+      "partner_id": [
+        1904,
+        "FAYAZ KARIM"
+      ],
+      "amount_total": 2433506.4,
+      "state": "new",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3814,
+      "name": "S03813",
+      "partner_id": [
+        22285,
+        "VANILLA"
+      ],
+      "amount_total": 7979492.82,
+      "state": "new",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3812,
+      "name": "S03811",
+      "partner_id": [
+        22288,
+        "Tsiory ANDRIAMANANTENA"
+      ],
+      "amount_total": 13925509.2,
+      "state": "new",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3811,
+      "name": "S03810",
+      "partner_id": [
+        22288,
+        "Tsiory ANDRIAMANANTENA"
+      ],
+      "amount_total": 17301782.64,
+      "state": "new",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3810,
+      "name": "S03809",
+      "partner_id": [
+        22274,
+        "BLANC Jean"
+      ],
+      "amount_total": 13348886.16,
+      "state": "new",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3809,
+      "name": "S03808",
+      "partner_id": [
+        22289,
+        "Solohasina RASAMIMANANA"
+      ],
+      "amount_total": 7672322.7,
+      "state": "sent",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3808,
+      "name": "S03807",
+      "partner_id": [
+        1247,
+        "RAZANAJATOVO Rija"
+      ],
+      "amount_total": 75395182.92,
+      "state": "draft",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3804,
+      "name": "S03803",
+      "partner_id": [
+        22264,
+        "Lova Niaina RAKOTOARISON"
+      ],
+      "amount_total": 84390560.88,
+      "state": "sent",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3803,
+      "name": "S03802",
+      "partner_id": [
+        999,
+        "SOCIETE COLAS MADAGASCAR SA"
+      ],
+      "amount_total": 224580391.2,
+      "state": "draft",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3802,
+      "name": "S03801",
+      "partner_id": [
+        22008,
+        "SOCIETE 4MORI"
+      ],
+      "amount_total": 56536028.88,
+      "state": "draft",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3790,
+      "name": "S03789",
+      "partner_id": [
+        22007,
+        "COMMIEN"
+      ],
+      "amount_total": 6167845.14,
+      "state": "draft",
+      "date_order": "2025-07-02 00:00:00"
+    },
+    {
+      "id": 3787,
+      "name": "S03786",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 35194.36,
+      "state": "sale",
+      "date_order": "2025-07-01 13:41:49"
+    },
+    {
+      "id": 3474,
+      "name": "S03473",
+      "partner_id": [
+        3550,
+        "IMBKN"
+      ],
+      "amount_total": 318756.0,
+      "state": "sale",
+      "date_order": "2025-07-01 12:56:44"
+    },
+    {
+      "id": 1021,
+      "name": "S01021",
+      "partner_id": [
+        1062,
+        "CITYZEN IMMOBILIER SARLU"
+      ],
+      "amount_total": 557695166.63,
+      "state": "sale",
+      "date_order": "2025-07-01 12:45:17"
+    },
+    {
+      "id": 3132,
+      "name": "S03131",
+      "partner_id": [
+        2657,
+        "RAZAFINDRAZAKA Sylvia"
+      ],
+      "amount_total": 32898247.0,
+      "state": "sale",
+      "date_order": "2025-07-01 11:10:13"
+    },
+    {
+      "id": 3674,
+      "name": "S03673",
+      "partner_id": [
+        2729,
+        "RANDRIANARISON Guy"
+      ],
+      "amount_total": 9510355.9,
+      "state": "sale",
+      "date_order": "2025-07-01 09:01:35"
+    },
+    {
+      "id": 3764,
+      "name": "S03763",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 138528.0,
+      "state": "sale",
+      "date_order": "2025-07-01 08:54:11"
+    },
+    {
+      "id": 3609,
+      "name": "S03608",
+      "partner_id": [
+        1618,
+        "RG IMMOBILIER SARLU"
+      ],
+      "amount_total": 843820.2,
+      "state": "sale",
+      "date_order": "2025-07-01 07:41:08"
+    },
+    {
+      "id": 3843,
+      "name": "S03842",
+      "partner_id": [
+        22232,
+        "François Xavier ESPERON"
+      ],
+      "amount_total": 10220251.2,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3842,
+      "name": "S03841",
+      "partner_id": [
+        22232,
+        "François Xavier ESPERON"
+      ],
+      "amount_total": 42603816.24,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3841,
+      "name": "S03840",
+      "partner_id": [
+        22232,
+        "François Xavier ESPERON"
+      ],
+      "amount_total": 104074830.96,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3829,
+      "name": "S03828",
+      "partner_id": [
+        972,
+        "AD2 ARCHITECTES SARL"
+      ],
+      "amount_total": 1573964.4,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3828,
+      "name": "S03827",
+      "partner_id": [
+        22031,
+        "HOUDA Gomez"
+      ],
+      "amount_total": 55891462.32,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3820,
+      "name": "S03819",
+      "partner_id": [
+        22256,
+        "Riana ANDRIAMBANONA"
+      ],
+      "amount_total": 51974875.5,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3799,
+      "name": "S03798",
+      "partner_id": [
+        21797,
+        "Mme MICHAEL RANDRIAMANANTENASOARIMANANA"
+      ],
+      "amount_total": 288483448.8,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3798,
+      "name": "S03797",
+      "partner_id": [
+        21797,
+        "Mme MICHAEL RANDRIAMANANTENASOARIMANANA"
+      ],
+      "amount_total": 67637581.08,
+      "state": "new",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3794,
+      "name": "S03793",
+      "partner_id": [
+        22262,
+        "PHILIPPE MAMELONET"
+      ],
+      "amount_total": 35331250.74,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3789,
+      "name": "S03788",
+      "partner_id": [
+        22254,
+        "Moustaki"
+      ],
+      "amount_total": 875827.2,
+      "state": "sent",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3788,
+      "name": "S03787",
+      "partner_id": [
+        22253,
+        "Yoan DJIVA"
+      ],
+      "amount_total": 2167257.6,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3786,
+      "name": "S03785",
+      "partner_id": [
+        21990,
+        "Sabrina GRANGE"
+      ],
+      "amount_total": 138315765.24,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3785,
+      "name": "S03784",
+      "partner_id": [
+        21990,
+        "Sabrina GRANGE"
+      ],
+      "amount_total": 136400118.48,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3784,
+      "name": "S03783",
+      "partner_id": [
+        22050,
+        "JAOMPETY André"
+      ],
+      "amount_total": 14310904.32,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3783,
+      "name": "S03782",
+      "partner_id": [
+        1982,
+        "KOURESH Rassay"
+      ],
+      "amount_total": 16738261.2,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3782,
+      "name": "S03781",
+      "partner_id": [
+        1982,
+        "KOURESH Rassay"
+      ],
+      "amount_total": 24819193.8,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3781,
+      "name": "S03780",
+      "partner_id": [
+        22230,
+        "COMMUNE URBAIN DE DIEGO SUAREZ"
+      ],
+      "amount_total": 11482513.38,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3780,
+      "name": "S03779",
+      "partner_id": [
+        22230,
+        "COMMUNE URBAIN DE DIEGO SUAREZ"
+      ],
+      "amount_total": 44682634.14,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3779,
+      "name": "S03778",
+      "partner_id": [
+        22246,
+        "Jean Alix IMBIKI"
+      ],
+      "amount_total": 6770090.4,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3778,
+      "name": "S03777",
+      "partner_id": [
+        2917,
+        "TEX"
+      ],
+      "amount_total": 1025486.4,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3777,
+      "name": "S03776",
+      "partner_id": [
+        22227,
+        "Nathalie RAKOTOARISOA"
+      ],
+      "amount_total": 8524459.38,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3776,
+      "name": "S03775",
+      "partner_id": [
+        22016,
+        "SOAMAROTSARA Lola"
+      ],
+      "amount_total": 65340084.8,
+      "state": "sent",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3775,
+      "name": "S03774",
+      "partner_id": [
+        22255,
+        "Josoa RAZAFIMAHANDRY"
+      ],
+      "amount_total": 64097714.94,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3774,
+      "name": "S03773",
+      "partner_id": [
+        1439,
+        "SOCIETE MALGACHE DES PETROLES VIVO ENERGY SA"
+      ],
+      "amount_total": 124316250.12,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3773,
+      "name": "S03772",
+      "partner_id": [
+        1915,
+        "SOMETO"
+      ],
+      "amount_total": 13511433.96,
+      "state": "sent",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3772,
+      "name": "S03771",
+      "partner_id": [
+        1915,
+        "SOMETO"
+      ],
+      "amount_total": 8879631.42,
+      "state": "sent",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3770,
+      "name": "S03769",
+      "partner_id": [
+        22126,
+        "Andotiana Rakotoarivo"
+      ],
+      "amount_total": 153224515.2,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3768,
+      "name": "S03767",
+      "partner_id": [
+        1167,
+        "PANDJOU Salim"
+      ],
+      "amount_total": 6654737.7,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3767,
+      "name": "S03766",
+      "partner_id": [
+        1022,
+        "FIRST IMMO"
+      ],
+      "amount_total": 13867944.12,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3766,
+      "name": "S03765",
+      "partner_id": [
+        1197,
+        "BARI IMMOBILIER SARL"
+      ],
+      "amount_total": 20144855.04,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3765,
+      "name": "S03764",
+      "partner_id": [
+        2773,
+        "ZO HARENA"
+      ],
+      "amount_total": 3664981.2,
+      "state": "sent",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3762,
+      "name": "S03761",
+      "partner_id": [
+        1332,
+        "AKADIN"
+      ],
+      "amount_total": 188208902.4,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3761,
+      "name": "S03760",
+      "partner_id": [
+        22245,
+        "Mr MAXENCE BIGEY"
+      ],
+      "amount_total": 6608219.94,
+      "state": "draft",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3760,
+      "name": "S03759",
+      "partner_id": [
+        1429,
+        "AMBASSADE DE LA REPUBLIQUE ARABE D'EGYPTE"
+      ],
+      "amount_total": 4210238.4,
+      "state": "new",
+      "date_order": "2025-07-01 00:00:00"
+    },
+    {
+      "id": 3688,
+      "name": "S03687",
+      "partner_id": [
+        1340,
+        "ALU COMPANY SARLU"
+      ],
+      "amount_total": 107093350.8,
+      "state": "sale",
+      "date_order": "2025-06-30 12:51:45"
+    },
+    {
+      "id": 3646,
+      "name": "S03645",
+      "partner_id": [
+        3028,
+        "TRAVAUX INTERNE"
+      ],
+      "amount_total": 4618151.0,
+      "state": "sale",
+      "date_order": "2025-06-30 12:49:26"
+    },
+    {
+      "id": 3732,
+      "name": "S03731",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 537729.6,
+      "state": "sale",
+      "date_order": "2025-06-30 12:42:21"
+    },
+    {
+      "id": 3729,
+      "name": "S03728",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 175180.8,
+      "state": "sale",
+      "date_order": "2025-06-30 12:37:05"
+    },
+    {
+      "id": 3728,
+      "name": "S03727",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 465036.38,
+      "state": "sale",
+      "date_order": "2025-06-30 12:22:39"
+    },
+    {
+      "id": 3727,
+      "name": "S03726",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 105263.42,
+      "state": "sale",
+      "date_order": "2025-06-30 12:14:06"
+    },
+    {
+      "id": 3676,
+      "name": "S03675",
+      "partner_id": [
+        22214,
+        "MOUCTAR ZAMAZAMA"
+      ],
+      "amount_total": 1257857.1,
+      "state": "sale",
+      "date_order": "2025-06-30 12:13:00"
+    },
+    {
+      "id": 3726,
+      "name": "S03725",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 306398.11,
+      "state": "sale",
+      "date_order": "2025-06-30 12:08:47"
+    },
+    {
+      "id": 3723,
+      "name": "S03722",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 7660.8,
+      "state": "sale",
+      "date_order": "2025-06-30 12:02:41"
+    },
+    {
+      "id": 3721,
+      "name": "S03720",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 196008.91,
+      "state": "sale",
+      "date_order": "2025-06-30 11:58:34"
+    },
+    {
+      "id": 3720,
+      "name": "S03719",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 153792.67,
+      "state": "sale",
+      "date_order": "2025-06-30 11:49:30"
+    },
+    {
+      "id": 2962,
+      "name": "S02961",
+      "partner_id": [
+        21663,
+        "COLLET Serge"
+      ],
+      "amount_total": 4741574.4,
+      "state": "sale",
+      "date_order": "2025-06-30 06:52:35"
+    },
+    {
+      "id": 2788,
+      "name": "S02787",
+      "partner_id": [
+        1351,
+        "RASOANARIVO Hantanirina Lalao"
+      ],
+      "amount_total": 659519.0,
+      "state": "sale",
+      "date_order": "2025-06-30 06:43:40"
+    },
+    {
+      "id": 2691,
+      "name": "S02690",
+      "partner_id": [
+        1351,
+        "RASOANARIVO Hantanirina Lalao"
+      ],
+      "amount_total": 13672899.4,
+      "state": "sale",
+      "date_order": "2025-06-30 06:42:00"
+    },
+    {
+      "id": 2547,
+      "name": "S02546",
+      "partner_id": [
+        1351,
+        "RASOANARIVO Hantanirina Lalao"
+      ],
+      "amount_total": 8167480.0,
+      "state": "sale",
+      "date_order": "2025-06-30 06:37:44"
+    },
+    {
+      "id": 3640,
+      "name": "S03639",
+      "partner_id": [
+        3028,
+        "TRAVAUX INTERNE"
+      ],
+      "amount_total": 2612860.0,
+      "state": "sale",
+      "date_order": "2025-06-30 06:33:06"
+    },
+    {
+      "id": 3759,
+      "name": "S03758",
+      "partner_id": [
+        3137,
+        "AREMEC"
+      ],
+      "amount_total": 131649007.32,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3757,
+      "name": "S03756",
+      "partner_id": [
+        22131,
+        "ZANNOTTI Rosanna"
+      ],
+      "amount_total": 23691441.12,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3756,
+      "name": "S03755",
+      "partner_id": [
+        1482,
+        "MATERAUTO"
+      ],
+      "amount_total": 72603695.88,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3755,
+      "name": "S03754",
+      "partner_id": [
+        22146,
+        "Rija RAKOTONIANA"
+      ],
+      "amount_total": 7742179.44,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3754,
+      "name": "S03753",
+      "partner_id": [
+        22233,
+        "Seheno RATOVONIRINA"
+      ],
+      "amount_total": 5440705.5,
+      "state": "sent",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3753,
+      "name": "S03752",
+      "partner_id": [
+        22238,
+        "Andry RAJOTONIRINA"
+      ],
+      "amount_total": 47566728.0,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3751,
+      "name": "S03750",
+      "partner_id": [
+        2414,
+        "RUFFIN"
+      ],
+      "amount_total": 21565975.26,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3750,
+      "name": "S03749",
+      "partner_id": [
+        22133,
+        "METAL PERFORMANCE"
+      ],
+      "amount_total": 576000.0,
+      "state": "sent",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3749,
+      "name": "S03748",
+      "partner_id": [
+        3031,
+        "Ynaety SAMBATEX"
+      ],
+      "amount_total": 70471188.36,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3748,
+      "name": "S03747",
+      "partner_id": [
+        3031,
+        "Ynaety SAMBATEX"
+      ],
+      "amount_total": 70111188.36,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3747,
+      "name": "S03746",
+      "partner_id": [
+        3031,
+        "Ynaety SAMBATEX"
+      ],
+      "amount_total": 52767231.06,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3746,
+      "name": "S03745",
+      "partner_id": [
+        3031,
+        "Ynaety SAMBATEX"
+      ],
+      "amount_total": 73835905.8,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3745,
+      "name": "S03744",
+      "partner_id": [
+        1085,
+        "RAZAFINDRAIBE Thierry"
+      ],
+      "amount_total": 2400000.0,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3744,
+      "name": "S03743",
+      "partner_id": [
+        1177,
+        "SACM"
+      ],
+      "amount_total": 27661351.44,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3743,
+      "name": "S03742",
+      "partner_id": [
+        1177,
+        "SACM"
+      ],
+      "amount_total": 61104778.32,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3742,
+      "name": "S03741",
+      "partner_id": [
+        22231,
+        "Razafimahatratra Vanessa"
+      ],
+      "amount_total": 51437915.58,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3741,
+      "name": "S03740",
+      "partner_id": [
+        22231,
+        "Razafimahatratra Vanessa"
+      ],
+      "amount_total": 48937904.76,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3740,
+      "name": "S03739",
+      "partner_id": [
+        22229,
+        "Ella RAZANANIRINA"
+      ],
+      "amount_total": 29398799.88,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3739,
+      "name": "S03738",
+      "partner_id": [
+        22229,
+        "Ella RAZANANIRINA"
+      ],
+      "amount_total": 26883999.0,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3738,
+      "name": "S03737",
+      "partner_id": [
+        22227,
+        "Nathalie RAKOTOARISOA"
+      ],
+      "amount_total": 8200143.72,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3734,
+      "name": "S03733",
+      "partner_id": [
+        22229,
+        "Ella RAZANANIRINA"
+      ],
+      "amount_total": 28859360.64,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3731,
+      "name": "S03730",
+      "partner_id": [
+        3233,
+        "SOCIETE E-TRANO SARLU"
+      ],
+      "amount_total": 108720091.2,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3730,
+      "name": "S03729",
+      "partner_id": [
+        2890,
+        "EKAR FRERES CAPUCINS"
+      ],
+      "amount_total": 156578647.86,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3725,
+      "name": "S03724",
+      "partner_id": [
+        21525,
+        "DANNY DIJOUX"
+      ],
+      "amount_total": 330678235.2,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3724,
+      "name": "S03723",
+      "partner_id": [
+        1177,
+        "SACM"
+      ],
+      "amount_total": 27008958.6,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3722,
+      "name": "S03721",
+      "partner_id": [
+        1177,
+        "SACM"
+      ],
+      "amount_total": 72127713.72,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3719,
+      "name": "S03718",
+      "partner_id": [
+        1177,
+        "SACM"
+      ],
+      "amount_total": 77530144.08,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3718,
+      "name": "S03717",
+      "partner_id": [
+        3233,
+        "SOCIETE E-TRANO SARLU"
+      ],
+      "amount_total": 29389236.0,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3717,
+      "name": "S03716",
+      "partner_id": [
+        3233,
+        "SOCIETE E-TRANO SARLU"
+      ],
+      "amount_total": 80286643.92,
+      "state": "new",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3716,
+      "name": "S03715",
+      "partner_id": [
+        21341,
+        "Antoine VEZO"
+      ],
+      "amount_total": 31796302.08,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3715,
+      "name": "S03714",
+      "partner_id": [
+        21341,
+        "Antoine VEZO"
+      ],
+      "amount_total": 6403330.5,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3712,
+      "name": "S03711",
+      "partner_id": [
+        1176,
+        "STRUCTURES"
+      ],
+      "amount_total": 45614431.62,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3710,
+      "name": "S03709",
+      "partner_id": [
+        22217,
+        "EUGENE"
+      ],
+      "amount_total": 3677738.58,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3709,
+      "name": "S03708",
+      "partner_id": [
+        21485,
+        "DARMSY LAPHA Zavarhoussen"
+      ],
+      "amount_total": 201450696.0,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3708,
+      "name": "S03707",
+      "partner_id": [
+        1019,
+        "NP AKADIN SERVICE SARL"
+      ],
+      "amount_total": 429241.2,
+      "state": "sent",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3707,
+      "name": "S03706",
+      "partner_id": [
+        22213,
+        "Ranto RAHOBISON"
+      ],
+      "amount_total": 110881032.9,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3706,
+      "name": "S03705",
+      "partner_id": [
+        22213,
+        "Ranto RAHOBISON"
+      ],
+      "amount_total": 152690747.76,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3704,
+      "name": "S03703",
+      "partner_id": [
+        22221,
+        "HELY"
+      ],
+      "amount_total": 12377184.84,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3703,
+      "name": "S03702",
+      "partner_id": [
+        22204,
+        "Patricia TSIAZONANGOLY"
+      ],
+      "amount_total": 5724051.6,
+      "state": "draft",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3701,
+      "name": "S03700",
+      "partner_id": [
+        2773,
+        "ZO HARENA"
+      ],
+      "amount_total": 3098278.8,
+      "state": "sent",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3699,
+      "name": "S03698",
+      "partner_id": [
+        22219,
+        "PATRICK"
+      ],
+      "amount_total": 93003094.08,
+      "state": "sent",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3698,
+      "name": "S03697",
+      "partner_id": [
+        1167,
+        "PANDJOU Salim"
+      ],
+      "amount_total": 7985685.24,
+      "state": "sent",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3697,
+      "name": "S03696",
+      "partner_id": [
+        2751,
+        "HUILERIE INDUSTRIELLE DE TAMATAVE - HITA SARL"
+      ],
+      "amount_total": 23221490.4,
+      "state": "sent",
+      "date_order": "2025-06-30 00:00:00"
+    },
+    {
+      "id": 3691,
+      "name": "S03690",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 516092.4,
+      "state": "sale",
+      "date_order": "2025-06-27 13:37:55"
+    },
+    {
+      "id": 3682,
+      "name": "S03681",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 0.0,
+      "state": "draft",
+      "date_order": "2025-06-27 12:18:58"
+    },
+    {
+      "id": 3675,
+      "name": "S03674",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 411256.44,
+      "state": "sale",
+      "date_order": "2025-06-27 10:56:15"
+    },
+    {
+      "id": 2810,
+      "name": "S02809",
+      "partner_id": [
+        1332,
+        "AKADIN"
+      ],
+      "amount_total": 101907528.0,
+      "state": "sale",
+      "date_order": "2025-06-27 10:32:27"
+    },
+    {
+      "id": 2714,
+      "name": "S02713",
+      "partner_id": [
+        1332,
+        "AKADIN"
+      ],
+      "amount_total": 23383795.2,
+      "state": "sale",
+      "date_order": "2025-06-27 10:30:35"
+    },
+    {
+      "id": 2309,
+      "name": "S02308",
+      "partner_id": [
+        1332,
+        "AKADIN"
+      ],
+      "amount_total": 77752233.6,
+      "state": "sale",
+      "date_order": "2025-06-27 10:28:11"
+    },
+    {
+      "id": 2735,
+      "name": "S02734",
+      "partner_id": [
+        1444,
+        "RAMAHEFARISON HARINDRIAKA Mamisoa Nicolas"
+      ],
+      "amount_total": 50222235.55,
+      "state": "sale",
+      "date_order": "2025-06-27 10:24:37"
+    },
+    {
+      "id": 2737,
+      "name": "S02736",
+      "partner_id": [
+        1444,
+        "RAMAHEFARISON HARINDRIAKA Mamisoa Nicolas"
+      ],
+      "amount_total": 38187623.7,
+      "state": "sale",
+      "date_order": "2025-06-27 10:21:15"
+    },
+    {
+      "id": 3163,
+      "name": "S03162",
+      "partner_id": [
+        1022,
+        "FIRST IMMO"
+      ],
+      "amount_total": 114955758.72,
+      "state": "sale",
+      "date_order": "2025-06-27 10:18:09"
+    },
+    {
+      "id": 3164,
+      "name": "S03163",
+      "partner_id": [
+        1022,
+        "FIRST IMMO"
+      ],
+      "amount_total": 140998158.72,
+      "state": "sale",
+      "date_order": "2025-06-27 10:15:40"
+    },
+    {
+      "id": 2736,
+      "name": "S02735",
+      "partner_id": [
+        1444,
+        "RAMAHEFARISON HARINDRIAKA Mamisoa Nicolas"
+      ],
+      "amount_total": 14663555.7,
+      "state": "sale",
+      "date_order": "2025-06-27 10:02:13"
+    },
+    {
+      "id": 3539,
+      "name": "S03538",
+      "partner_id": [
+        2267,
+        "RANDRIANANDRASANA Jocelin"
+      ],
+      "amount_total": 5479791.05,
+      "state": "sale",
+      "date_order": "2025-06-27 08:07:54"
+    },
+    {
+      "id": 3221,
+      "name": "S03220",
+      "partner_id": [
+        1211,
+        "SOCIETE EUROP'ALU"
+      ],
+      "amount_total": 1141168.0,
+      "state": "sale",
+      "date_order": "2025-06-27 08:06:26"
+    },
+    {
+      "id": 3361,
+      "name": "S03360",
+      "partner_id": [
+        1372,
+        "RAKOTOARIVONY Andriamahaveloniaina"
+      ],
+      "amount_total": 2873688.0,
+      "state": "sale",
+      "date_order": "2025-06-27 07:43:12"
+    },
+    {
+      "id": 3623,
+      "name": "S03622",
+      "partner_id": [
+        22074,
+        "HANIF SAMDJEE"
+      ],
+      "amount_total": 28635778.4,
+      "state": "sale",
+      "date_order": "2025-06-27 07:26:33"
+    },
+    {
+      "id": 3625,
+      "name": "S03624",
+      "partner_id": [
+        22074,
+        "HANIF SAMDJEE"
+      ],
+      "amount_total": 15329850.0,
+      "state": "sale",
+      "date_order": "2025-06-27 07:24:31"
+    },
+    {
+      "id": 3628,
+      "name": "S03627",
+      "partner_id": [
+        22074,
+        "HANIF SAMDJEE"
+      ],
+      "amount_total": 38128738.5,
+      "state": "sale",
+      "date_order": "2025-06-27 07:21:40"
+    },
+    {
+      "id": 3629,
+      "name": "S03628",
+      "partner_id": [
+        22074,
+        "HANIF SAMDJEE"
+      ],
+      "amount_total": 5379189.75,
+      "state": "sale",
+      "date_order": "2025-06-27 07:18:09"
+    },
+    {
+      "id": 3624,
+      "name": "S03623",
+      "partner_id": [
+        22074,
+        "HANIF SAMDJEE"
+      ],
+      "amount_total": 17676208.5,
+      "state": "sale",
+      "date_order": "2025-06-27 07:14:29"
+    },
+    {
+      "id": 3575,
+      "name": "S03574",
+      "partner_id": [
+        1324,
+        "ARIS TRADING"
+      ],
+      "amount_total": 960903.6,
+      "state": "sale",
+      "date_order": "2025-06-27 06:22:52"
+    },
+    {
+      "id": 3752,
+      "name": "S03751",
+      "partner_id": [
+        22133,
+        "METAL PERFORMANCE"
+      ],
+      "amount_total": 6012792.36,
+      "state": "sent",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3737,
+      "name": "S03736",
+      "partner_id": [
+        1513,
+        "AGENCE PARTICULIERE SARL"
+      ],
+      "amount_total": 820180014.0,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3736,
+      "name": "S03735",
+      "partner_id": [
+        1513,
+        "AGENCE PARTICULIERE SARL"
+      ],
+      "amount_total": 305049908.52,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3735,
+      "name": "S03734",
+      "partner_id": [
+        1513,
+        "AGENCE PARTICULIERE SARL"
+      ],
+      "amount_total": 326691136.56,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3713,
+      "name": "S03712",
+      "partner_id": [
+        964,
+        "CFAO MOBILITY MADAGASCAR"
+      ],
+      "amount_total": 15300066.0,
+      "state": "sent",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3711,
+      "name": "S03710",
+      "partner_id": [
+        1212,
+        "Sun & Sons"
+      ],
+      "amount_total": 14243308.56,
+      "state": "sent",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3705,
+      "name": "S03704",
+      "partner_id": [
+        21984,
+        "AUER"
+      ],
+      "amount_total": 114255759.6,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3702,
+      "name": "S03701",
+      "partner_id": [
+        2583,
+        "MR DAVID VIENNE"
+      ],
+      "amount_total": 178653339.42,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3696,
+      "name": "S03695",
+      "partner_id": [
+        22210,
+        "NEP"
+      ],
+      "amount_total": 803559.6,
+      "state": "sent",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3695,
+      "name": "S03694",
+      "partner_id": [
+        1340,
+        "ALU COMPANY SARLU"
+      ],
+      "amount_total": 35517465.84,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3694,
+      "name": "S03693",
+      "partner_id": [
+        2583,
+        "MR DAVID VIENNE"
+      ],
+      "amount_total": 14005556.28,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3693,
+      "name": "S03692",
+      "partner_id": [
+        22217,
+        "EUGENE"
+      ],
+      "amount_total": 3698066.16,
+      "state": "new",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3692,
+      "name": "S03691",
+      "partner_id": [
+        22220,
+        "Mr CHRISTOPHE RAKOTONIAINA"
+      ],
+      "amount_total": 28700166.24,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3690,
+      "name": "S03689",
+      "partner_id": [
+        2748,
+        "ECE"
+      ],
+      "amount_total": 15139796.4,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3689,
+      "name": "S03688",
+      "partner_id": [
+        1357,
+        "COUET Michel"
+      ],
+      "amount_total": 9502428.6,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3687,
+      "name": "S03686",
+      "partner_id": [
+        985,
+        "DIRECTION TECHNIQUE"
+      ],
+      "amount_total": 497713.0,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3686,
+      "name": "S03685",
+      "partner_id": [
+        22131,
+        "ZANNOTTI Rosanna"
+      ],
+      "amount_total": 20744665.2,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3685,
+      "name": "S03684",
+      "partner_id": [
+        1357,
+        "COUET Michel"
+      ],
+      "amount_total": 21449446.2,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3684,
+      "name": "S03683",
+      "partner_id": [
+        1357,
+        "COUET Michel"
+      ],
+      "amount_total": 19795383.0,
+      "state": "cancel",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3683,
+      "name": "S03682",
+      "partner_id": [
+        1372,
+        "RAKOTOARIVONY Andriamahaveloniaina"
+      ],
+      "amount_total": 39039090.36,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3681,
+      "name": "S03680",
+      "partner_id": [
+        21485,
+        "DARMSY LAPHA Zavarhoussen"
+      ],
+      "amount_total": 193449901.6,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3673,
+      "name": "S03672",
+      "partner_id": [
+        22187,
+        "YASSIN PANDJOU"
+      ],
+      "amount_total": 281562.0,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3672,
+      "name": "S03671",
+      "partner_id": [
+        22184,
+        "Njara ESTELLAH"
+      ],
+      "amount_total": 96000.0,
+      "state": "sent",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3671,
+      "name": "S03670",
+      "partner_id": [
+        985,
+        "DIRECTION TECHNIQUE"
+      ],
+      "amount_total": 2832283.0,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3669,
+      "name": "S03668",
+      "partner_id": [
+        1648,
+        "SOCIETE CARRE IMMO SCI"
+      ],
+      "amount_total": 120000.0,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3668,
+      "name": "S03667",
+      "partner_id": [
+        21910,
+        "MR TED STEVEN"
+      ],
+      "amount_total": 63345125.1,
+      "state": "draft",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3665,
+      "name": "S03664",
+      "partner_id": [
+        21635,
+        "M. Shane mahomed"
+      ],
+      "amount_total": 77093.64,
+      "state": "sent",
+      "date_order": "2025-06-27 00:00:00"
+    },
+    {
+      "id": 3585,
+      "name": "S03584",
+      "partner_id": [
+        22150,
+        "GOULZAR"
+      ],
+      "amount_total": 0.0,
+      "state": "sale",
+      "date_order": "2025-06-25 08:12:39"
+    },
+    {
+      "id": 3630,
+      "name": "S03629",
+      "partner_id": [
+        22137,
+        "RABEMANANJARA Nicolas"
+      ],
+      "amount_total": 244916.4,
+      "state": "sale",
+      "date_order": "2025-06-25 07:43:39"
+    },
+    {
+      "id": 3641,
+      "name": "S03640",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 350361.6,
+      "state": "sale",
+      "date_order": "2025-06-25 06:35:25"
+    },
+    {
+      "id": 3639,
+      "name": "S03638",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 33112.8,
+      "state": "sale",
+      "date_order": "2025-06-25 06:30:40"
+    },
+    {
+      "id": 3680,
+      "name": "S03679",
+      "partner_id": [
+        22112,
+        "MR HALID ZAKARIA"
+      ],
+      "amount_total": 323852888.8,
+      "state": "draft",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 3678,
+      "name": "S03677",
+      "partner_id": [
+        1062,
+        "CITYZEN IMMOBILIER SARLU"
+      ],
+      "amount_total": 13968193.2,
+      "state": "draft",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 3670,
+      "name": "S03669",
+      "partner_id": [
+        22183,
+        "GLOBAL MOTORS"
+      ],
+      "amount_total": 354633.6,
+      "state": "draft",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 3664,
+      "name": "S03663",
+      "partner_id": [
+        22210,
+        "NEP"
+      ],
+      "amount_total": 221505.6,
+      "state": "sent",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 3663,
+      "name": "S03662",
+      "partner_id": [
+        3245,
+        "SOCIETE IMMOBILIERE CHERALY - SIC-SA"
+      ],
+      "amount_total": 876930.0,
+      "state": "sent",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 3662,
+      "name": "S03661",
+      "partner_id": [
+        2701,
+        "CHANTAL DGI"
+      ],
+      "amount_total": 85304041.92,
+      "state": "draft",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 3661,
+      "name": "S03660",
+      "partner_id": [
+        22134,
+        "Noro Onisoa RANAIVOMANANA"
+      ],
+      "amount_total": 3644588.52,
+      "state": "sent",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 3660,
+      "name": "S03659",
+      "partner_id": [
+        22189,
+        "MME FABIE"
+      ],
+      "amount_total": 11042379.0,
+      "state": "draft",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 3659,
+      "name": "S03658",
+      "partner_id": [
+        22178,
+        "Zo RASOAMAMPIONINA"
+      ],
+      "amount_total": 7117442.34,
+      "state": "draft",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 3658,
+      "name": "S03657",
+      "partner_id": [
+        22178,
+        "Zo RASOAMAMPIONINA"
+      ],
+      "amount_total": 5441656.8,
+      "state": "draft",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 3657,
+      "name": "S03656",
+      "partner_id": [
+        22180,
+        "Christophe DEMAY"
+      ],
+      "amount_total": 4450525.38,
+      "state": "draft",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 3656,
+      "name": "S03655",
+      "partner_id": [
+        21529,
+        "Mr Malik ABDOUL"
+      ],
+      "amount_total": 22503874.0,
+      "state": "draft",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 3655,
+      "name": "S03654",
+      "partner_id": [
+        22165,
+        "Hary FANIRY"
+      ],
+      "amount_total": 8590471.26,
+      "state": "sent",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 3654,
+      "name": "S03653",
+      "partner_id": [
+        2751,
+        "HUILERIE INDUSTRIELLE DE TAMATAVE - HITA SARL"
+      ],
+      "amount_total": 68745545.85,
+      "state": "draft",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 3642,
+      "name": "S03641",
+      "partner_id": [
+        22136,
+        "CLINIQUE NOAH"
+      ],
+      "amount_total": 94356026.4,
+      "state": "draft",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 3638,
+      "name": "S03637",
+      "partner_id": [
+        3028,
+        "TRAVAUX INTERNE"
+      ],
+      "amount_total": 430077.0,
+      "state": "draft",
+      "date_order": "2025-06-25 00:00:00"
+    },
+    {
+      "id": 2687,
+      "name": "S02686",
+      "partner_id": [
+        1059,
+        "ANDRIANASOLO Tojo"
+      ],
+      "amount_total": 18122824.5,
+      "state": "sale",
+      "date_order": "2025-06-24 14:01:56"
+    },
+    {
+      "id": 3613,
+      "name": "S03612",
+      "partner_id": [
+        1382,
+        "ECRS"
+      ],
+      "amount_total": 10941851.28,
+      "state": "sale",
+      "date_order": "2025-06-24 13:58:40"
+    },
+    {
+      "id": 3611,
+      "name": "S03610",
+      "partner_id": [
+        1128,
+        "ANDOSOA Rabearilala Charline"
+      ],
+      "amount_total": 30196144.0,
+      "state": "sale",
+      "date_order": "2025-06-24 13:50:23"
+    },
+    {
+      "id": 3525,
+      "name": "S03524",
+      "partner_id": [
+        3267,
+        "COLLIN Mathieu"
+      ],
+      "amount_total": 169213.2,
+      "state": "sale",
+      "date_order": "2025-06-24 09:01:53"
+    },
+    {
+      "id": 3273,
+      "name": "S03272",
+      "partner_id": [
+        985,
+        "DIRECTION TECHNIQUE"
+      ],
+      "amount_total": 15015768.0,
+      "state": "sale",
+      "date_order": "2025-06-24 08:21:21"
+    },
+    {
+      "id": 3601,
+      "name": "S03600",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 6804.0,
+      "state": "sale",
+      "date_order": "2025-06-24 08:10:00"
+    },
+    {
+      "id": 3600,
+      "name": "S03599",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 144993.6,
+      "state": "sale",
+      "date_order": "2025-06-24 08:06:50"
+    },
+    {
+      "id": 3599,
+      "name": "S03598",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 809856.1,
+      "state": "sale",
+      "date_order": "2025-06-24 07:53:16"
+    },
+    {
+      "id": 3589,
+      "name": "S03588",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 112247.04,
+      "state": "sale",
+      "date_order": "2025-06-24 07:38:43"
+    },
+    {
+      "id": 3588,
+      "name": "S03587",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 186262.08,
+      "state": "sale",
+      "date_order": "2025-06-24 07:26:24"
+    },
+    {
+      "id": 3584,
+      "name": "S03583",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 15120.0,
+      "state": "sale",
+      "date_order": "2025-06-24 07:07:17"
+    },
+    {
+      "id": 3567,
+      "name": "S03566",
+      "partner_id": [
+        21646,
+        "RANDRIANALISON Paulin"
+      ],
+      "amount_total": 500000.4,
+      "state": "sale",
+      "date_order": "2025-06-24 06:50:17"
+    },
+    {
+      "id": 3581,
+      "name": "S03580",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 509212.37,
+      "state": "sale",
+      "date_order": "2025-06-24 06:45:03"
+    },
+    {
+      "id": 3791,
+      "name": "S03790",
+      "partner_id": [
+        2751,
+        "HUILERIE INDUSTRIELLE DE TAMATAVE - HITA SARL"
+      ],
+      "amount_total": 7593156.0,
+      "state": "cancel",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3667,
+      "name": "S03666",
+      "partner_id": [
+        961,
+        "ARCHITECTURE  OTMAR DODEL"
+      ],
+      "amount_total": 223779531.48,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3666,
+      "name": "S03665",
+      "partner_id": [
+        961,
+        "ARCHITECTURE  OTMAR DODEL"
+      ],
+      "amount_total": 551276956.68,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3653,
+      "name": "S03652",
+      "partner_id": [
+        21961,
+        "Florence MAROSON"
+      ],
+      "amount_total": 3722226.96,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3652,
+      "name": "S03651",
+      "partner_id": [
+        21961,
+        "Florence MAROSON"
+      ],
+      "amount_total": 4552384.08,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3651,
+      "name": "S03650",
+      "partner_id": [
+        22131,
+        "ZANNOTTI Rosanna"
+      ],
+      "amount_total": 21784886.7,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3637,
+      "name": "S03636",
+      "partner_id": [
+        22171,
+        "Pascale KIENTZ"
+      ],
+      "amount_total": 78934480.56,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3636,
+      "name": "S03635",
+      "partner_id": [
+        22171,
+        "Pascale KIENTZ"
+      ],
+      "amount_total": 150800694.36,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3635,
+      "name": "S03634",
+      "partner_id": [
+        1261,
+        "LEONG SANG Gino"
+      ],
+      "amount_total": 65689689.96,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3634,
+      "name": "S03633",
+      "partner_id": [
+        2168,
+        "BADOURALY Anicha - Arman TRANS FY"
+      ],
+      "amount_total": 906144.0,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3633,
+      "name": "S03632",
+      "partner_id": [
+        3091,
+        "GERMAINE"
+      ],
+      "amount_total": 24832378.38,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3632,
+      "name": "S03631",
+      "partner_id": [
+        3082,
+        "Mme RICKA RADIMIASO"
+      ],
+      "amount_total": 1280846.64,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3631,
+      "name": "S03630",
+      "partner_id": [
+        1726,
+        "MADJER"
+      ],
+      "amount_total": 3969133.68,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3627,
+      "name": "S03626",
+      "partner_id": [
+        2751,
+        "HUILERIE INDUSTRIELLE DE TAMATAVE - HITA SARL"
+      ],
+      "amount_total": 7593156.0,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3626,
+      "name": "S03625",
+      "partner_id": [
+        2751,
+        "HUILERIE INDUSTRIELLE DE TAMATAVE - HITA SARL"
+      ],
+      "amount_total": 13305348.96,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3622,
+      "name": "S03621",
+      "partner_id": [
+        1273,
+        "ALIMAMOD Shamine Mahomed - DINMAMOD"
+      ],
+      "amount_total": 1503837.6,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3621,
+      "name": "S03620",
+      "partner_id": [
+        21346,
+        "Akthar RASSAY"
+      ],
+      "amount_total": 50082442.14,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3619,
+      "name": "S03618",
+      "partner_id": [
+        22149,
+        "Alain Pierre RANDRIANJOHARY"
+      ],
+      "amount_total": 2078133.72,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3618,
+      "name": "S03617",
+      "partner_id": [
+        972,
+        "AD2 ARCHITECTES SARL"
+      ],
+      "amount_total": 356668.8,
+      "state": "sent",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3617,
+      "name": "S03616",
+      "partner_id": [
+        2906,
+        "NISSAT"
+      ],
+      "amount_total": 0.0,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3616,
+      "name": "S03615",
+      "partner_id": [
+        22148,
+        "YAS MADAGASCAR"
+      ],
+      "amount_total": 95763622.08,
+      "state": "new",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3615,
+      "name": "S03614",
+      "partner_id": [
+        22162,
+        "MICO COMMERCE"
+      ],
+      "amount_total": 21189687.36,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3614,
+      "name": "S03613",
+      "partner_id": [
+        22162,
+        "MICO COMMERCE"
+      ],
+      "amount_total": 22911145.74,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3612,
+      "name": "S03611",
+      "partner_id": [
+        22160,
+        "SABRINA GRANGE"
+      ],
+      "amount_total": 2308067.22,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3610,
+      "name": "S03609",
+      "partner_id": [
+        1276,
+        "RAKOTOFIRINGA Sylvia"
+      ],
+      "amount_total": 20273303.2,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3608,
+      "name": "S03607",
+      "partner_id": [
+        17576,
+        "PROMODIM"
+      ],
+      "amount_total": 2961385.2,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3607,
+      "name": "S03606",
+      "partner_id": [
+        22155,
+        "BIENVENUE"
+      ],
+      "amount_total": 14859235.08,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3606,
+      "name": "S03605",
+      "partner_id": [
+        1340,
+        "ALU COMPANY SARLU"
+      ],
+      "amount_total": 108080482.32,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3605,
+      "name": "S03604",
+      "partner_id": [
+        1340,
+        "ALU COMPANY SARLU"
+      ],
+      "amount_total": 94924710.0,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3598,
+      "name": "S03597",
+      "partner_id": [
+        2034,
+        "THIERRY Chan Ming"
+      ],
+      "amount_total": 7748730.18,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3597,
+      "name": "S03596",
+      "partner_id": [
+        2034,
+        "THIERRY Chan Ming"
+      ],
+      "amount_total": 5936845.02,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3596,
+      "name": "S03595",
+      "partner_id": [
+        21525,
+        "DANNY DIJOUX"
+      ],
+      "amount_total": 349359999.9,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3595,
+      "name": "S03594",
+      "partner_id": [
+        22138,
+        "Tehsine MOLOU"
+      ],
+      "amount_total": 1829852.4,
+      "state": "sent",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3590,
+      "name": "S03589",
+      "partner_id": [
+        22157,
+        "SDOI"
+      ],
+      "amount_total": 231154770.24,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3583,
+      "name": "S03582",
+      "partner_id": [
+        22158,
+        "Fils RANKOTONDRATSIMA"
+      ],
+      "amount_total": 9390097.44,
+      "state": "draft",
+      "date_order": "2025-06-24 00:00:00"
+    },
+    {
+      "id": 3568,
+      "name": "S03567",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 356400.0,
+      "state": "sale",
+      "date_order": "2025-06-23 13:21:53"
+    },
+    {
+      "id": 3514,
+      "name": "S03513",
+      "partner_id": [
+        2729,
+        "RANDRIANARISON Guy"
+      ],
+      "amount_total": 19104643.35,
+      "state": "sale",
+      "date_order": "2025-06-23 12:18:46"
+    },
+    {
+      "id": 3557,
+      "name": "S03556",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 99048.0,
+      "state": "sale",
+      "date_order": "2025-06-23 10:42:50"
+    },
+    {
+      "id": 3515,
+      "name": "S03514",
+      "partner_id": [
+        1250,
+        "ECONS"
+      ],
+      "amount_total": 1226006.4,
+      "state": "sale",
+      "date_order": "2025-06-23 10:29:03"
+    },
+    {
+      "id": 3504,
+      "name": "S03503",
+      "partner_id": [
+        2096,
+        "LAKOUBAY Nazia"
+      ],
+      "amount_total": 0.0,
+      "state": "sale",
+      "date_order": "2025-06-23 10:10:08"
+    },
+    {
+      "id": 2802,
+      "name": "S02801",
+      "partner_id": [
+        1062,
+        "CITYZEN IMMOBILIER SARLU"
+      ],
+      "amount_total": 10229069.31,
+      "state": "sale",
+      "date_order": "2025-06-23 10:02:02"
+    },
+    {
+      "id": 2296,
+      "name": "S02295",
+      "partner_id": [
+        1062,
+        "CITYZEN IMMOBILIER SARLU"
+      ],
+      "amount_total": 18243011.52,
+      "state": "sale",
+      "date_order": "2025-06-23 08:59:39"
+    },
+    {
+      "id": 3494,
+      "name": "S03493",
+      "partner_id": [
+        1062,
+        "CITYZEN IMMOBILIER SARLU"
+      ],
+      "amount_total": 174287950.97,
+      "state": "sale",
+      "date_order": "2025-06-23 08:52:56"
+    },
+    {
+      "id": 3547,
+      "name": "S03546",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 224845.2,
+      "state": "sale",
+      "date_order": "2025-06-23 07:42:50"
+    },
+    {
+      "id": 2571,
+      "name": "S02570",
+      "partner_id": [
+        3171,
+        "SMITH"
+      ],
+      "amount_total": 204764.0,
+      "state": "sale",
+      "date_order": "2025-06-23 06:55:09"
+    },
+    {
+      "id": 3644,
+      "name": "S03643",
+      "partner_id": [
+        21346,
+        "Akthar RASSAY"
+      ],
+      "amount_total": 129565656.0,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3643,
+      "name": "S03642",
+      "partner_id": [
+        21346,
+        "Akthar RASSAY"
+      ],
+      "amount_total": 115933629.48,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3620,
+      "name": "S03619",
+      "partner_id": [
+        21346,
+        "Akthar RASSAY"
+      ],
+      "amount_total": 58163596.8,
+      "state": "new",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3604,
+      "name": "S03603",
+      "partner_id": [
+        1261,
+        "LEONG SANG Gino"
+      ],
+      "amount_total": 149262346.8,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3603,
+      "name": "S03602",
+      "partner_id": [
+        1261,
+        "LEONG SANG Gino"
+      ],
+      "amount_total": 73924499.52,
+      "state": "cancel",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3602,
+      "name": "S03601",
+      "partner_id": [
+        1261,
+        "LEONG SANG Gino"
+      ],
+      "amount_total": 45982109.58,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3594,
+      "name": "S03593",
+      "partner_id": [
+        22135,
+        "Tovo RAFOLISY"
+      ],
+      "amount_total": 34589393.46,
+      "state": "sent",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3593,
+      "name": "S03592",
+      "partner_id": [
+        22135,
+        "Tovo RAFOLISY"
+      ],
+      "amount_total": 34937272.62,
+      "state": "sent",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3592,
+      "name": "S03591",
+      "partner_id": [
+        22124,
+        "AURLENTIA"
+      ],
+      "amount_total": 122272992.24,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3591,
+      "name": "S03590",
+      "partner_id": [
+        22124,
+        "AURLENTIA"
+      ],
+      "amount_total": 122872690.02,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3587,
+      "name": "S03586",
+      "partner_id": [
+        17341,
+        "Virginie RAKOTONDRAZAKA"
+      ],
+      "amount_total": 83864841.6,
+      "state": "sent",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3586,
+      "name": "S03585",
+      "partner_id": [
+        22132,
+        "GARAGE MAHEFA"
+      ],
+      "amount_total": 3842110.02,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3580,
+      "name": "S03579",
+      "partner_id": [
+        22143,
+        "Elton Rakotoarijaona"
+      ],
+      "amount_total": 7353389.52,
+      "state": "sent",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3579,
+      "name": "S03578",
+      "partner_id": [
+        22143,
+        "Elton Rakotoarijaona"
+      ],
+      "amount_total": 6052563.72,
+      "state": "sent",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3578,
+      "name": "S03577",
+      "partner_id": [
+        21525,
+        "DANNY DIJOUX"
+      ],
+      "amount_total": 324678233.7,
+      "state": "new",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3577,
+      "name": "S03576",
+      "partner_id": [
+        21525,
+        "DANNY DIJOUX"
+      ],
+      "amount_total": 126073712.65,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3576,
+      "name": "S03575",
+      "partner_id": [
+        2950,
+        "LAURYN ELEC"
+      ],
+      "amount_total": 508725.6,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3574,
+      "name": "S03573",
+      "partner_id": [
+        1062,
+        "CITYZEN IMMOBILIER SARLU"
+      ],
+      "amount_total": 9207275.98,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3573,
+      "name": "S03572",
+      "partner_id": [
+        1062,
+        "CITYZEN IMMOBILIER SARLU"
+      ],
+      "amount_total": 140036765.85,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3572,
+      "name": "S03571",
+      "partner_id": [
+        2729,
+        "RANDRIANARISON Guy"
+      ],
+      "amount_total": 25188372.66,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3571,
+      "name": "S03570",
+      "partner_id": [
+        1350,
+        "ENTREPRISE DE CONSTRUCTION GENERALE DU BATIMENT -ECGB"
+      ],
+      "amount_total": 26348095.32,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3570,
+      "name": "S03569",
+      "partner_id": [
+        22134,
+        "Noro Onisoa RANAIVOMANANA"
+      ],
+      "amount_total": 2535757.74,
+      "state": "sent",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3569,
+      "name": "S03568",
+      "partner_id": [
+        22137,
+        "RABEMANANJARA Nicolas"
+      ],
+      "amount_total": 390393.6,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3566,
+      "name": "S03565",
+      "partner_id": [
+        22136,
+        "CLINIQUE NOAH"
+      ],
+      "amount_total": 64402362.42,
+      "state": "sent",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3565,
+      "name": "S03564",
+      "partner_id": [
+        22121,
+        "SERGIO"
+      ],
+      "amount_total": 41406669.72,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3563,
+      "name": "S03562",
+      "partner_id": [
+        3233,
+        "SOCIETE E-TRANO SARLU"
+      ],
+      "amount_total": 27982490.28,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3562,
+      "name": "S03561",
+      "partner_id": [
+        3233,
+        "SOCIETE E-TRANO SARLU"
+      ],
+      "amount_total": 78061152.84,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3560,
+      "name": "S03559",
+      "partner_id": [
+        21930,
+        "Stéphane DURAND"
+      ],
+      "amount_total": 43409562.72,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3559,
+      "name": "S03558",
+      "partner_id": [
+        22120,
+        "CHARAF"
+      ],
+      "amount_total": 26318662.68,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3556,
+      "name": "S03555",
+      "partner_id": [
+        22122,
+        "Razanamanpandry Lydia"
+      ],
+      "amount_total": 22716077.4,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3555,
+      "name": "S03554",
+      "partner_id": [
+        21470,
+        "Batso Rajaonarivony"
+      ],
+      "amount_total": 5539163.55,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3554,
+      "name": "S03553",
+      "partner_id": [
+        22118,
+        "ANDRIAMIFIDIMANANA Falihery"
+      ],
+      "amount_total": 37353432.96,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3553,
+      "name": "S03552",
+      "partner_id": [
+        22123,
+        "Adriano FULGENCY"
+      ],
+      "amount_total": 8006684.76,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3552,
+      "name": "S03551",
+      "partner_id": [
+        22123,
+        "Adriano FULGENCY"
+      ],
+      "amount_total": 13026945.3,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3551,
+      "name": "S03550",
+      "partner_id": [
+        3286,
+        "FTL MADAGASCAR"
+      ],
+      "amount_total": 284094.0,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3550,
+      "name": "S03549",
+      "partner_id": [
+        2040,
+        "TRANOMBAROTRA SOA VY"
+      ],
+      "amount_total": 2170066.8,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3548,
+      "name": "S03547",
+      "partner_id": [
+        22089,
+        "MR YOUSSOUF DAROUGAR"
+      ],
+      "amount_total": 37900489.92,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3546,
+      "name": "S03545",
+      "partner_id": [
+        2253,
+        "RABETSIMAMANGA Sitraka"
+      ],
+      "amount_total": 257467.2,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3545,
+      "name": "S03544",
+      "partner_id": [
+        1823,
+        "FAHARDINE Fatimaa"
+      ],
+      "amount_total": 14181212.4,
+      "state": "draft",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 3544,
+      "name": "S03543",
+      "partner_id": [
+        942,
+        "BAOBAB TOURS SARL"
+      ],
+      "amount_total": 67254.0,
+      "state": "sent",
+      "date_order": "2025-06-23 00:00:00"
+    },
+    {
+      "id": 2408,
+      "name": "S02407",
+      "partner_id": [
+        1208,
+        "INSTITUT PASTEUR DE MADAGASCAR"
+      ],
+      "amount_total": 529498.8,
+      "state": "sale",
+      "date_order": "2025-06-20 13:36:15"
+    },
+    {
+      "id": 3095,
+      "name": "S03094",
+      "partner_id": [
+        1328,
+        "RANDRIANJOHANY Miantsa"
+      ],
+      "amount_total": 111852.0,
+      "state": "sale",
+      "date_order": "2025-06-20 13:31:35"
+    },
+    {
+      "id": 2877,
+      "name": "S02876",
+      "partner_id": [
+        21611,
+        "SP VISION"
+      ],
+      "amount_total": 382443.0,
+      "state": "sale",
+      "date_order": "2025-06-20 13:23:04"
+    },
+    {
+      "id": 3493,
+      "name": "S03492",
+      "partner_id": [
+        21983,
+        "JAWAHAR Kaviraj Kavita"
+      ],
+      "amount_total": 18414361.55,
+      "state": "sale",
+      "date_order": "2025-06-20 13:16:58"
+    },
+    {
+      "id": 3291,
+      "name": "S03290",
+      "partner_id": [
+        1986,
+        "BANQUE SBM MADAGASCAR"
+      ],
+      "amount_total": 408657.6,
+      "state": "sale",
+      "date_order": "2025-06-20 13:11:43"
+    },
+    {
+      "id": 3530,
+      "name": "S03529",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 107001.6,
+      "state": "sale",
+      "date_order": "2025-06-20 12:20:29"
+    },
+    {
+      "id": 3529,
+      "name": "S03528",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 98498.4,
+      "state": "sale",
+      "date_order": "2025-06-20 12:13:22"
+    },
+    {
+      "id": 3527,
+      "name": "S03526",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 7761.6,
+      "state": "sale",
+      "date_order": "2025-06-20 12:02:01"
+    },
+    {
+      "id": 3524,
+      "name": "S03523",
+      "partner_id": [
+        2904,
+        "CLIENT DIVERS Vente Directe"
+      ],
+      "amount_total": 282652.8,
+      "state": "sale",
+      "date_order": "2025-06-20 11:45:06"
+    },
+    {
+      "id": 3405,
+      "name": "S03404",
+      "partner_id": [
+        3028,
+        "TRAVAUX INTERNE"
+      ],
+      "amount_total": 4240.0,
+      "state": "sale",
+      "date_order": "2025-06-20 07:54:12"
+    },
+    {
+      "id": 3564,
+      "name": "S03563",
+      "partner_id": [
+        22025,
+        "LFL MADAGASCAR"
+      ],
+      "amount_total": 25713628.8,
+      "state": "draft",
+      "date_order": "2025-06-20 00:00:00"
+    },
+    {
+      "id": 3561,
+      "name": "S03560",
+      "partner_id": [
+        22114,
+        "Patrick RAYMOND"
+      ],
+      "amount_total": 521162.4,
+      "state": "draft",
+      "date_order": "2025-06-20 00:00:00"
+    },
+    {
+      "id": 3558,
+      "name": "S03557",
+      "partner_id": [
+        22113,
+        "Priscilla FERDINAND"
+      ],
+      "amount_total": 20423554.08,
+      "state": "draft",
+      "date_order": "2025-06-20 00:00:00"
+    },
+    {
+      "id": 3543,
+      "name": "S03542",
+      "partner_id": [
+        2372,
+        "TALYS"
+      ],
+      "amount_total": 15630335.64,
+      "state": "sent",
+      "date_order": "2025-06-20 00:00:00"
+    },
+    {
+      "id": 3542,
+      "name": "S03541",
+      "partner_id": [
+        3277,
+        "Vision Madagascar"
+      ],
+      "amount_total": 12846453332.4,
+      "state": "draft",
+      "date_order": "2025-06-20 00:00:00"
+    },
+    {
+      "id": 3541,
+      "name": "S03540",
+      "partner_id": [
+        22016,
+        "SOAMAROTSARA Lola"
+      ],
+      "amount_total": 65762393.4,
+      "state": "draft",
+      "date_order": "2025-06-20 00:00:00"
+    },
+    {
+      "id": 3540,
+      "name": "S03539",
+      "partner_id": [
+        22016,
+        "SOAMAROTSARA Lola"
+      ],
+      "amount_total": 78408101.76,
+      "state": "sent",
+      "date_order": "2025-06-20 00:00:00"
+    },
+    {
+      "id": 3538,
+      "name": "S03537",
+      "partner_id": [
+        1340,
+        "ALU COMPANY SARLU"
+      ],
+      "amount_total": 94308515.76,
+      "state": "sent",
+      "date_order": "2025-06-20 00:00:00"
+    }
+  ],
+  "res.partner": [
+    {
+      "id": 1427,
+      "name": "(MAMY PIVAROKAZO) RANDRIAMIAMISON",
+      "email": false,
+      "phone": "+261 34 16 509 50",
+      "is_company": true,
+      "customer_rank": 0
+    },
+    {
+      "id": 2732,
+      "name": "(NAR)  Guide Construction",
+      "email": false,
+      "phone": false,
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 2733,
+      "name": "(NAR) RAKOTONDRAMANANA Gino",
+      "email": false,
+      "phone": "+261 34 61 639 92",
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 2919,
+      "name": "(Nar) ABDOUL",
+      "email": "rayantradingcompany786@gmail.com",
+      "phone": "+261 34 24 903 36",
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 2800,
+      "name": "(Nar) FABRICE RAMAMONJISOA",
+      "email": false,
+      "phone": "+261 34 41 736 85",
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 2888,
+      "name": "(Nar) RAMAMONJISOA FABRICE",
+      "email": false,
+      "phone": "+261 34 41 736 86",
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 2894,
+      "name": "(Nar)Dina",
+      "email": "jdina7@yahoo.fr",
+      "phone": "+261 33 37 791 37",
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 21242,
+      "name": "(TIS) Andrianasolo Andry",
+      "email": false,
+      "phone": "+261 34 51 432 66",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 21249,
+      "name": "(TIS) MR Desi",
+      "email": false,
+      "phone": "0386032611",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 21247,
+      "name": "(TIS)MR Fetra",
+      "email": false,
+      "phone": "+261 33 60 545 65",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 21245,
+      "name": "(TIS)MR Gilbert Ambinitsoa",
+      "email": false,
+      "phone": "+261 34 59 699 51",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 21267,
+      "name": "(TIS)Rakotoarison Sambatra",
+      "email": "sambatrah@yahoo.fr",
+      "phone": "+261 32 02 472 31",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 3005,
+      "name": "-\tFabien  MALALAHARIMANANA",
+      "email": false,
+      "phone": false,
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 3004,
+      "name": "-\tMiah'ty  KOTOARIJAONA",
+      "email": "-\tfalirakotoarijaona@gmail.com",
+      "phone": "+261 34 60 794 63",
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 22259,
+      "name": "4091",
+      "email": false,
+      "phone": false,
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 2837,
+      "name": "AARAY",
+      "email": false,
+      "phone": false,
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 2031,
+      "name": "ABASS IMPORTER",
+      "email": false,
+      "phone": "ANTERIEUR",
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 2210,
+      "name": "ABASS Sakotaly",
+      "email": false,
+      "phone": "ANTERIEUR",
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 3096,
+      "name": "ABASSE TULEAR",
+      "email": false,
+      "phone": "+261 34 84 276 43",
+      "is_company": false,
+      "customer_rank": 2
+    },
+    {
+      "id": 1050,
+      "name": "ABC",
+      "email": "arson.raharijaona@abc.mg",
+      "phone": "+261 34 08 631 80",
+      "is_company": true,
+      "customer_rank": 10
+    },
+    {
+      "id": 2211,
+      "name": "ABDALAH",
+      "email": false,
+      "phone": "ANTERIEUR",
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 3103,
+      "name": "ABDALLAH Fatema",
+      "email": false,
+      "phone": false,
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 1109,
+      "name": "ABDOOLLAH Feizal Mohammad",
+      "email": false,
+      "phone": "+261 34 14 267 86",
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 1957,
+      "name": "ABDOU Raomany",
+      "email": false,
+      "phone": "ANTERIEUR",
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 1958,
+      "name": "ABDOUL HASSANALY",
+      "email": false,
+      "phone": "ANTERIEUR",
+      "is_company": false,
+      "customer_rank": 1
+    },
+    {
+      "id": 3227,
+      "name": "ABDOURAHIM FATOUMIA",
+      "email": false,
+      "phone": false,
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 3080,
+      "name": "ABECCO",
+      "email": "bandrianasolo@gmail.com",
+      "phone": "+261 34 14 081 04",
+      "is_company": true,
+      "customer_rank": 0
+    },
+    {
+      "id": 21448,
+      "name": "ABHIJIT OUKABAY",
+      "email": false,
+      "phone": "ANTERIEUR",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 21563,
+      "name": "ABK",
+      "email": false,
+      "phone": "+261 34 02 303 00",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 1029,
+      "name": "ACADE SARL",
+      "email": "acade@acade.mg",
+      "phone": "+261 32 11 160 70",
+      "is_company": true,
+      "customer_rank": 3
+    },
+    {
+      "id": 2189,
+      "name": "ACF",
+      "email": false,
+      "phone": false,
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 1556,
+      "name": "ACHDJIAN Tsoline",
+      "email": "tsoline.k@orange.fr",
+      "phone": "0383456520",
+      "is_company": false,
+      "customer_rank": 12
+    },
+    {
+      "id": 1594,
+      "name": "ACTION MISSIONNAIRE POUR LA FRANCOPHONIE - AMF/AEF",
+      "email": "caf.daniel.amf@gmail.com",
+      "phone": "+261 34 99 105 05",
+      "is_company": true,
+      "customer_rank": 7
+    },
+    {
+      "id": 3053,
+      "name": "ACTIVE ASSURANCE",
+      "email": false,
+      "phone": "+261 32 05 815 77",
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 2952,
+      "name": "ACTIVE ASSURANCES",
+      "email": "hrafalimanana@meilleurtaux.com",
+      "phone": "+261 32 05 815 77",
+      "is_company": true,
+      "customer_rank": 8
+    },
+    {
+      "id": 3072,
+      "name": "ACTIVO",
+      "email": false,
+      "phone": false,
+      "is_company": true,
+      "customer_rank": 0
+    },
+    {
+      "id": 972,
+      "name": "AD2 ARCHITECTES SARL",
+      "email": "ad2archi.mamy@moov.mg",
+      "phone": "+261 34 11 456 44",
+      "is_company": true,
+      "customer_rank": 9
+    },
+    {
+      "id": 21956,
+      "name": "ADEFI SANTE",
+      "email": "aina.rasoamanaarivo@adefisante.org",
+      "phone": "+261 34 11 029 12",
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 1701,
+      "name": "ADNANE",
+      "email": false,
+      "phone": "+261 32 75 932 02",
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 1702,
+      "name": false,
+      "email": false,
+      "phone": false,
+      "is_company": false,
+      "customer_rank": 0
+    },
+    {
+      "id": 2488,
+      "name": "ADOUM MAIGAOU MARTADE",
+      "email": "vincentmartade@yahoo.fr",
+      "phone": "+261 32 30 527 25",
+      "is_company": false,
+      "customer_rank": 12
+    },
+    {
+      "id": 3065,
+      "name": "AEROPORTS DE MADAGASCAR SA",
+      "email": false,
+      "phone": false,
+      "is_company": true,
+      "customer_rank": 1
+    },
+    {
+      "id": 1483,
+      "name": "AEROPUB SA",
+      "email": false,
+      "phone": "+261 20 22 568 77",
+      "is_company": true,
+      "customer_rank": 0
+    },
+    {
+      "id": 1097,
+      "name": "AFI ASSURANCES MADAGASCAR",
+      "email": "rhenintsoa@afiassurances.fr",
+      "phone": "+261 32 05 322 25",
+      "is_company": true,
+      "customer_rank": 10
+    },
+    {
+      "id": 3165,
+      "name": "AFRIPOWER MANDROSEZA SA",
+      "email": false,
+      "phone": false,
+      "is_company": true,
+      "customer_rank": 0
+    },
+    {
+      "id": 2049,
+      "name": "AGA JAILANY",
+      "email": "aga@jovenna.mg",
+      "phone": "+261 34 07 202 37",
+      "is_company": false,
+      "customer_rank": 12
+    },
+    {
+      "id": 1454,
+      "name": "AGENCE FRANCAISE DE DEVELOPPEMENT - AFD",
+      "email": "rafetiarisont.ext@afd.fr",
+      "phone": "+261 32 85 561 75",
+      "is_company": true,
+      "customer_rank": 5
+    },
+    {
+      "id": 1513,
+      "name": "AGENCE PARTICULIERE SARL",
+      "email": "michael@agence-particuliere.com",
+      "phone": "+261 34 94 529 00",
+      "is_company": true,
+      "customer_rank": 3
+    },
+    {
+      "id": 1852,
+      "name": "AGRICOM",
+      "email": "maintenance@terra.mg",
+      "phone": "+261 32 11 773 58",
+      "is_company": true,
+      "customer_rank": 3
+    },
+    {
+      "id": 2188,
+      "name": "AGRIFARM",
+      "email": "lova.rakotohasimbola@agrifarm.mg",
+      "phone": "038 06 371 94",
+      "is_company": true,
+      "customer_rank": 5
+    }
+  ],
+  "stock.quant": [
+    {
+      "id": 1813,
+      "product_id": [
+        919,
+        "[AHTE3001] LAME 60"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1814,
+      "product_id": [
+        926,
+        "[AHTE3011] LAME FINALE 60"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1815,
+      "product_id": [
+        942,
+        "[ALCF50-100] F42.4 SUPPORT COLUMN"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1816,
+      "product_id": [
+        943,
+        "[ALCF50-106] SUPPORT COLUMN 40X40 - POTEAU CARRE"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1817,
+      "product_id": [
+        1818,
+        "[ALCF50-109] SUPPORT COLUMN 40X40 (NO CAP)"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1819,
+      "product_id": [
+        944,
+        "[ALCF50-200] ROUND HANDRAIL D50"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1820,
+      "product_id": [
+        936,
+        "[ALCF50-203] DIVIDABLE HANDRAIL F50.30X80"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1821,
+      "product_id": [
+        937,
+        "[ALCF50-223] COV.FOR DIV.HANDR.F50-203"
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1822,
+      "product_id": [
+        938,
+        "[ALCF50-300] PROFILE D16X1.3 "
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    },
+    {
+      "id": 1823,
+      "product_id": [
+        939,
+        "[ALCF50-302] PROFILE SQUARE 16X16X2 "
+      ],
+      "inventory_quantity": 0.0,
+      "location_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "lot_id": false
+    }
+  ],
+  "product.template": [
+    {
+      "id": 9436,
+      "name": "\" T \" CONNECTEUR POUR TRAVERSE",
+      "list_price": 1.0,
+      "default_code": "ALC272-257",
+      "qty_available": 20.0,
+      "virtual_available": 20.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "AALC272-0257"
+    },
+    {
+      "id": 9437,
+      "name": "\" Г \" ANGLE DE CONNECTION POUR TRAVERSE",
+      "list_price": 1.0,
+      "default_code": "ALC272-258",
+      "qty_available": 34.0,
+      "virtual_available": 34.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "AALC272-0258"
+    },
+    {
+      "id": 21130,
+      "name": "(cid:140)il de b(cid:156)uf fixe",
+      "list_price": 1.0,
+      "default_code": "52443PT MA02",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "sage_ref": "52443PT MA02"
+    },
+    {
+      "id": 13941,
+      "name": "(cid:201)metteur",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": "N/A"
+    },
+    {
+      "id": 13259,
+      "name": "025D FAST NORM PAUMELLE",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 2288.0,
+      "virtual_available": 2288.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "APBSY025DFNP"
+    },
+    {
+      "id": 6078,
+      "name": "1 Fft- Aménagement de 45 salles de bain, d’un lot de :",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": "N/A"
+    },
+    {
+      "id": 24961,
+      "name": "10799PR-O lot F10799PR-O FAB HOUSSEN AMICAL         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 24956,
+      "name": "10799PR-O lot F10799PR-O FAB HOUSSEN AMICAL         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 22941,
+      "name": "10799PR-O lot F10799PR-O FAB HOUSSEN AMICAL         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 22620,
+      "name": "10799PR-O lot F10799PR-O FAB HOUSSEN AMICAL         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 24110,
+      "name": "10799PR-O lot F10799PR-O FAB HOUSSEN AMICAL         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 20289,
+      "name": "12MMTREMP3",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 24557,
+      "name": "12MMTREMP4",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 24558,
+      "name": "12MMTREMP4",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 24528,
+      "name": "12MMTRP",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 9924,
+      "name": "150X150 POLE (TUBE)",
+      "list_price": 1.0,
+      "default_code": "XIJPL1515",
+      "qty_available": 16.0,
+      "virtual_available": 16.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        29,
+        "Tous / Matière première / Menuiserie / PROFILE"
+      ],
+      "sage_ref": "PXIJPOL150X150"
+    },
+    {
+      "id": 13786,
+      "name": "2 BEQUILLES + ROSACE INOX",
+      "list_price": 1.0,
+      "default_code": "ASSV770.15",
+      "qty_available": 2.0,
+      "virtual_available": 1.0,
+      "outgoing_qty": 1.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "AASSV770.15"
+    },
+    {
+      "id": 9934,
+      "name": "230 FIXING BASE OF POLE",
+      "list_price": 1.0,
+      "default_code": "XIJ230FBOP",
+      "qty_available": 16.0,
+      "virtual_available": 16.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "AXIJFXBOP"
+    },
+    {
+      "id": 15866,
+      "name": "23821DR-F lot F23821DR-F FAB COMETA                 ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 9889,
+      "name": "26555 LOUVER BLABE 3.85m",
+      "list_price": 1.0,
+      "default_code": "XIJ26555",
+      "qty_available": 37.0,
+      "virtual_available": 37.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        29,
+        "Tous / Matière première / Menuiserie / PROFILE"
+      ],
+      "sage_ref": "PXIJ26555LVRBLD"
+    },
+    {
+      "id": 16067,
+      "name": "2K EP ACTIVATOR 1L",
+      "list_price": 1.0,
+      "default_code": "BCOBCM950-1",
+      "qty_available": 0.0,
+      "virtual_available": 5.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "NBCOBCM950"
+    },
+    {
+      "id": 11098,
+      "name": "2K EP PRIMER STANAG 4360 5KG",
+      "list_price": 1.0,
+      "default_code": "BCOBCM10.020",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "NBCOBCM10.020"
+    },
+    {
+      "id": 11101,
+      "name": "2K EP THINNER 5L",
+      "list_price": 1.0,
+      "default_code": "BCOBCM680-5",
+      "qty_available": 0.0,
+      "virtual_available": 10.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "NBCOBCM680/5"
+    },
+    {
+      "id": 11102,
+      "name": "2K IMC ACTIVATOR HS SLOW 5L LOT : 1453026",
+      "list_price": 1.0,
+      "default_code": "BCOBCM741-5",
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        30,
+        "Tous / Matière première / Menuiserie / ACCESSOIRES"
+      ],
+      "sage_ref": "NBCOBCM741/5"
+    },
+    {
+      "id": 12539,
+      "name": "3.9X16",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 11960,
+      "name": "30016PR-C lot F30016PR-C FAB MAMOD -METAPLASCO      ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 9194,
+      "name": "30016PR-D lot F30016PR-D FAB MAMOD                  ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 15225,
+      "name": "36147PH-C lot F36147PH-C FAB MIALY                  ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 15223,
+      "name": "36147PH-C lot F36147PH-C FAB MIALY                  ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 15668,
+      "name": "36147PH-C lot F36147PH-C FAB MIALY                  ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 15224,
+      "name": "36147PH-C lot F36147PH-C FAB MIALY                  ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 15673,
+      "name": "36147PH-C lot F36147PH-C FAB MIALY                  ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 19662,
+      "name": "40057PR-C lot F40057PR-C FAB TOMBOLAZA ARISTHOPHANE ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 16029,
+      "name": "40157DH lot F40157DH   FAB COMETA                 ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 25009,
+      "name": "41479DR-D lot F41479DR-D FAB CITYZEN IMMOBILIER     ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 26638,
+      "name": "41479DR-E lot F41479DR-E FAB CITYZEN IMMOBILIER     ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 10467,
+      "name": "41598PH-A lot F41598PH-A FAB GERMAIN DGI            ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 19331,
+      "name": "42061PH-A lot F42061PH-A FAB RANDRIAMANANJARA CAMILL",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 17373,
+      "name": "42502PM-C lot F42502PM-C FAB PLATEFORME 207         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 20093,
+      "name": "42656PM-C lot F42656PM-C FAB BRICODIS               ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 4364,
+      "name": "42772PR-E lot F42772PR-E FAB MAMY RAKONANDRIA       ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 8063,
+      "name": "42780DR-C lot F42780DR-C FAB CITYZEN                ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 24237,
+      "name": "42780DR-D lot F42780DR-D CITYZEN IMMOBILIER         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 28207,
+      "name": "42858PR-C lot F42858PR-C FAB CITYZEN IMMOBILIER     ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 28044,
+      "name": "43681PR-G lot F43681PR-G FAB FAYAZ KARIM            ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 28162,
+      "name": "43681PR-G lot F43681PR-G FAB FAYAZ KARIM            ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 11658,
+      "name": "43699PM-C lot F43699PM-C FAB BRICODIS               ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 9308,
+      "name": "44218PM-A lot F44218PM-A FAB SALMAN                 ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 7023,
+      "name": "44750PK-K lot F44750PK-K FAB MAXIME AUGUSTE         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    },
+    {
+      "id": 7989,
+      "name": "44750PK-K lot F44750PK-K FAB MAXIME AUGUSTE         ",
+      "list_price": 1.0,
+      "default_code": false,
+      "qty_available": 0.0,
+      "virtual_available": 0.0,
+      "outgoing_qty": 0.0,
+      "taxes_id": [
+        38
+      ],
+      "categ_id": [
+        1,
+        "Tous"
+      ],
+      "sage_ref": false
+    }
+  ],
+  "stock.move": [
+    {
+      "id": 937,
+      "product_id": [
+        1879,
+        "[46036PM-A MA01] Ensemble(s) comprenant : 3825 1900"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 976,
+      "product_id": [
+        1821,
+        "[50350DM-A VR01] Volet roulant motorisé"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 979,
+      "product_id": [
+        1882,
+        "[50547DM SAV01] Remplacement vitrage cassé sur porte 1vtl"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 981,
+      "product_id": [
+        1857,
+        "[45353PR-D MA08] Ensemble(s) comprenant en angle : 6195 2000"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1099,
+      "product_id": [
+        2116,
+        "[45471PK-D ST01] STORE CALIFORNIEN"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 1313,
+      "product_id": [
+        2186,
+        "[46259DK GC01] Garde corps vitrée F50-Horizon frame- rampant"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 1324,
+      "product_id": [
+        2783,
+        "[50165DR-A RM01] Rideau métallique manuel"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1326,
+      "product_id": [
+        2053,
+        "[50409PR-B MA01] Ouvrant coulissant 3 vtx sur 3 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1382,
+      "product_id": [
+        1929,
+        "[46259DK GC01] Garde corps vitrée F50-Horizon frame- rampant"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 1584,
+      "product_id": [
+        1972,
+        "[50451PM MA01] Ouvrant coulissant 3 vtx sur 3 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1587,
+      "product_id": [
+        2101,
+        "[50388PM MA01] Ouvrant coulissant 3 vtx sur 3 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1649,
+      "product_id": [
+        2652,
+        "[45651PR-B MA01] Ouvrant coulissant 2 vtx sur 2 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1852,
+      "product_id": [
+        2141,
+        "[44750PK-J MA01] Châssis fixe"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1929,
+      "product_id": [
+        2897,
+        "[44834DK-B RM01] Toiture en verre: 3760 1400"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1977,
+      "product_id": [
+        2889,
+        "[50372PR MA01] Ouvrant coulissant 2 vtx sur 2 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 1997,
+      "product_id": [
+        1963,
+        "[46385PK-C MA01] Ouvrant coulissant 4 vtx sur 2 rails"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 2021,
+      "product_id": [
+        2103,
+        "[45481PR-C MA01] Châssis fixe"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2216,
+      "product_id": [
+        2622,
+        "[46343PR MA01] Châssis fixe"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2228,
+      "product_id": [
+        2651,
+        "[45296DR-C PO01] Porte sur pivot en verre trempé 2Vtx"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 2230,
+      "product_id": [
+        2694,
+        "[42772PR-E MA06] Ouvrant coulissant 3 vtx sur 3 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2254,
+      "product_id": [
+        2704,
+        "[50197PR-A MA01] Châssis fixe"
+      ],
+      "product_uom_qty": 5.0
+    },
+    {
+      "id": 2284,
+      "product_id": [
+        2185,
+        "[50355DK PS01] Porte sectionnelle"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2291,
+      "product_id": [
+        1905,
+        "[50486PK-A MA01] Ouvrant coulissant 2 vtx sur 2 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2417,
+      "product_id": [
+        3068,
+        "[41055DR-K GC01] Garde corps en verre"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2459,
+      "product_id": [
+        3093,
+        "[42780DR-C PF01] PAROI FIXE"
+      ],
+      "product_uom_qty": 6.0
+    },
+    {
+      "id": 2469,
+      "product_id": [
+        3456,
+        "[41479DR-D MR01] Puit de lumière"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2477,
+      "product_id": [
+        3452,
+        "[42858PR-A MA01] Soufflet 2305 Portefeille etroite"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 2524,
+      "product_id": [
+        3233,
+        "[50835DR GC01] Garde corps vitrée F50-Horizon frame"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2534,
+      "product_id": [
+        1918,
+        "[46387DK-B VR01] Volet roulant motorisé"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 2687,
+      "product_id": [
+        3407,
+        "[42955DR-E RM01] Rideau métallique motorisé"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2711,
+      "product_id": [
+        3140,
+        "[46077DM-B GC01] Garde corps barreaudé F50-Vertical Q"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2733,
+      "product_id": [
+        3109,
+        "[50209PK-B MA01] Ouvrant coulissant 2 vtx sur 2 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2734,
+      "product_id": [
+        3099,
+        "[46249DR-B VT01] Vitre Feuilletée claire 44.2"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2865,
+      "product_id": [
+        3106,
+        "[50569DR-A MS01] Moustiquaire enroulable"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 2952,
+      "product_id": [
+        3754,
+        "[50888PR MA01] Ouvrant coulissant 2 vtx sur 2 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2956,
+      "product_id": [
+        3416,
+        "[46198DR-B VR01] Volet roulant motorisé"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2968,
+      "product_id": [
+        3422,
+        "[46200PR-D MA01] Galandage 6vtx face à face sur 3rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 2998,
+      "product_id": [
+        3562,
+        "[46218PR-C MA01] Châssis fixe"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3018,
+      "product_id": [
+        3415,
+        "[34794GR-C RM01] RIDEAU METALLIQUE MOTORISE"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3087,
+      "product_id": [
+        3791,
+        "[45911PR-C MALU01] Ensemble(s) comprenant : 3860 3250"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 3112,
+      "product_id": [
+        3816,
+        "[41960PR-G MA01] Fenêtre OF 2vtx 2305+2306 Portefeille"
+      ],
+      "product_uom_qty": 3.0
+    },
+    {
+      "id": 3234,
+      "product_id": [
+        3352,
+        "[50549PM-B MA01] Châssis fixe"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3236,
+      "product_id": [
+        4146,
+        "[50707VM SAV01] Réparation fa(cid:231)ade en mur rideau comprenant :"
+      ],
+      "product_uom_qty": 3.0
+    },
+    {
+      "id": 3238,
+      "product_id": [
+        4118,
+        "[45737DR MA01] Ensemble(s) comprenant : 3270 2700"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3242,
+      "product_id": [
+        3911,
+        "[46464DM-B HB01] Habillage en panneau ACP Noir"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3246,
+      "product_id": [
+        4115,
+        "[46478DR VR01] Volet roulant motorisé"
+      ],
+      "product_uom_qty": 3.0
+    },
+    {
+      "id": 3250,
+      "product_id": [
+        4117,
+        "[50620PR MA01] Ouvrant coulissant 3 vtx sur 3 rails"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3298,
+      "product_id": [
+        1986,
+        "[40399DH-H RM01] Rideau métallique motorisé"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3327,
+      "product_id": [
+        4212,
+        "[50324DR-C DIV] Main d’oeuvre pour:"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3337,
+      "product_id": [
+        4217,
+        "[46460DR-H MA04] Ensemble(s) comprenant : 600 2400"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3347,
+      "product_id": [
+        4222,
+        "[50642VM-A SAV01] Réparation châssis ensemble comprenant :"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3362,
+      "product_id": [
+        4232,
+        "[50596DM-A SAV01] Main d’oeuvre pour :"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3378,
+      "product_id": [
+        3460,
+        "[45048DK-B HB] Plaque ACP noir à coller"
+      ],
+      "product_uom_qty": 7.0
+    },
+    {
+      "id": 3384,
+      "product_id": [
+        3664,
+        "[50867VK SAV01] Réparation d’un rideau métallique comprenant:"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3417,
+      "product_id": [
+        4224,
+        "[50356DM-B MA01] Verre trempé 8mm clair  - PROMOTION"
+      ],
+      "product_uom_qty": 2.0
+    },
+    {
+      "id": 3460,
+      "product_id": [
+        3235,
+        "[50630VM-A SAV01] Réparation d’un rideau métallique comprenant :"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3462,
+      "product_id": [
+        2984,
+        "[50266DR-A RM01] Rideau métallique manuel"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3468,
+      "product_id": [
+        2986,
+        "[50265PR-B MA01] Châssis fixe"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3474,
+      "product_id": [
+        2950,
+        "[50814GM SAV01] Remplacement lame alu blanc pour volet roulant :"
+      ],
+      "product_uom_qty": 1.0
+    },
+    {
+      "id": 3497,
+      "product_id": [
+        4148,
+        "[50895VK SAV01] Réparation volet roulant comprenant:"
+      ],
+      "product_uom_qty": 1.0
+    }
+  ],
+  "product.product": [
+    {
+      "id": 3239,
+      "name": "Ensemble(s) comprenant : 3660 2250",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA01",
+      "sage_color": false
+    },
+    {
+      "id": 3240,
+      "name": "Ensemble(s) comprenant : 3230 2250",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA02",
+      "sage_color": false
+    },
+    {
+      "id": 3241,
+      "name": "Ensemble(s) comprenant : 2500 2250",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA03",
+      "sage_color": false
+    },
+    {
+      "id": 3242,
+      "name": "Ensemble(s) comprenant : 2210 2270",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA04",
+      "sage_color": false
+    },
+    {
+      "id": 3243,
+      "name": "Ensemble(s) comprenant : 2240 2260",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA05",
+      "sage_color": false
+    },
+    {
+      "id": 3244,
+      "name": "Ouvrant coulissant 3 vtx sur 3 rails",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA06",
+      "sage_color": false
+    },
+    {
+      "id": 3246,
+      "name": "Ouvrant coulissant 3 vtx sur 3 rails",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA07",
+      "sage_color": false
+    },
+    {
+      "id": 3248,
+      "name": "Ouvrant coulissant 2 vtx sur 2 rails",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA08",
+      "sage_color": false
+    },
+    {
+      "id": 3250,
+      "name": "Ensemble(s) comprenant : 500 1755",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA09",
+      "sage_color": false
+    },
+    {
+      "id": 3251,
+      "name": "Ouvrant coulissant 2 vtx sur 2 rails",
+      "sale_ok": true,
+      "service_tracking": "task_in_project",
+      "categ_id": [
+        15,
+        "Tous / Produit fini / Menuiserie Aluminium"
+      ],
+      "default_code": "10799PR-I MA10",
+      "sage_color": false
+    }
+  ],
+  "stock.picking": [
+    {
+      "id": 1441,
+      "partner_id": [
+        1990,
+        "RAKOTONDRAINIBE Lanja"
+      ],
+      "picking_type_id": [
+        5,
+        "SIEGE: Transferts internes"
+      ],
+      "location_dest_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "scheduled_date": "2025-02-17 12:00:00",
+      "date_deadline": false,
+      "origin": "N° DEVIS 45549 DR"
+    },
+    {
+      "id": 4,
+      "partner_id": [
+        967,
+        "STMB"
+      ],
+      "picking_type_id": [
+        2,
+        "SIEGE: Bons de livraison"
+      ],
+      "location_dest_id": [
+        5,
+        "Partners/Customers"
+      ],
+      "scheduled_date": "2025-02-18 13:11:11",
+      "date_deadline": "2025-02-18 13:11:11",
+      "origin": "S00008"
+    },
+    {
+      "id": 5,
+      "partner_id": [
+        967,
+        "STMB"
+      ],
+      "picking_type_id": [
+        4,
+        "SIEGE: Colis"
+      ],
+      "location_dest_id": [
+        139,
+        "CLT/46036PM-A"
+      ],
+      "scheduled_date": "2025-02-18 13:11:12",
+      "date_deadline": false,
+      "origin": "[46036PM-A] S00008"
+    },
+    {
+      "id": 930,
+      "partner_id": false,
+      "picking_type_id": [
+        5,
+        "SIEGE: Transferts internes"
+      ],
+      "location_dest_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "scheduled_date": "2025-02-18 13:11:15",
+      "date_deadline": "2025-02-18 13:11:15",
+      "origin": "P00009"
+    },
+    {
+      "id": 929,
+      "partner_id": [
+        763,
+        "EUROTRADE"
+      ],
+      "picking_type_id": [
+        1,
+        "SIEGE: Réceptions"
+      ],
+      "location_dest_id": [
+        9,
+        "SIEGE/Entrée"
+      ],
+      "scheduled_date": "2025-02-18 13:11:15",
+      "date_deadline": "2025-02-18 13:11:15",
+      "origin": "P00009"
+    },
+    {
+      "id": 6,
+      "partner_id": [
+        967,
+        "STMB"
+      ],
+      "picking_type_id": [
+        5,
+        "SIEGE: Transferts internes"
+      ],
+      "location_dest_id": [
+        139,
+        "CLT/46036PM-A"
+      ],
+      "scheduled_date": "2025-02-19 07:59:36",
+      "date_deadline": false,
+      "origin": "[46036PM-A] S00008"
+    },
+    {
+      "id": 7,
+      "partner_id": [
+        967,
+        "STMB"
+      ],
+      "picking_type_id": [
+        5,
+        "SIEGE: Transferts internes"
+      ],
+      "location_dest_id": [
+        139,
+        "CLT/46036PM-A"
+      ],
+      "scheduled_date": "2025-02-19 08:00:13",
+      "date_deadline": false,
+      "origin": "[46036PM-A] S00008"
+    },
+    {
+      "id": 10,
+      "partner_id": [
+        967,
+        "STMB"
+      ],
+      "picking_type_id": [
+        5,
+        "SIEGE: Transferts internes"
+      ],
+      "location_dest_id": [
+        80,
+        "RSV/46036PM-A"
+      ],
+      "scheduled_date": "2025-02-19 11:13:39",
+      "date_deadline": false,
+      "origin": "46036PM-A"
+    },
+    {
+      "id": 7803,
+      "partner_id": false,
+      "picking_type_id": [
+        5,
+        "SIEGE: Transferts internes"
+      ],
+      "location_dest_id": [
+        583,
+        "AGY/Stock"
+      ],
+      "scheduled_date": "2025-02-19 12:10:36",
+      "date_deadline": false,
+      "origin": "P00014"
+    },
+    {
+      "id": 254,
+      "partner_id": false,
+      "picking_type_id": [
+        5,
+        "SIEGE: Transferts internes"
+      ],
+      "location_dest_id": [
+        8,
+        "SIEGE/Stock"
+      ],
+      "scheduled_date": "2025-02-19 12:10:36",
+      "date_deadline": "2025-02-19 12:10:36",
+      "origin": "P00014"
+    }
+  ]
+}
