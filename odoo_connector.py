@@ -1,11 +1,17 @@
+import os
+from dotenv import load_dotenv
 import requests
 import json
 from datetime import datetime
 
-url = "https://lab-odoo.europ-alu.com/jsonrpc"
-db = "europ-alu"
-username = "direction@vertec.mg"
-password = "1234"
+# Chargement des variables d'env
+load_dotenv()
+
+#Configuration du connecteur 
+url = os.getenv("ODOO_URL")
+db = os.getenv("ODOO_DB")
+username = os.getenv("ODOO_USERNAME")
+password = os.getenv("ODOO_PASSWORD")
 
 class FlexibleOdooConnector:
     def __init__(self):
@@ -40,7 +46,7 @@ class FlexibleOdooConnector:
                 "relations": []
             },
             "crm.team": {
-                "fields": ["id", "name", "user_id", "company_id"],
+                "fields": ["id", "name", "user_id", "company_id","invoiced_target"],
                 "limit": None,
                 "relations": ["user_id", "company_id"]
             },
