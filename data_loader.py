@@ -17,7 +17,7 @@ elasticsearch_host = os.getenv("ELASTICSEARCH_HOST")
 elasticsearch_port = int(os.getenv("ELASTICSEARCH_PORT")) 
 db = os.getenv("ODOO_DB") 
 
-def wait_for_elasticsearch_sync(index_name="odoo_data_v90", timeout=30):
+def wait_for_elasticsearch_sync(index_name="odoo_data_v91", timeout=30):
     """Attend que Elasticsearch synchronise après suppression"""
     print("⏳ Attente de la synchronisation Elasticsearch...")
     time.sleep(2) 
@@ -33,7 +33,7 @@ def wait_for_elasticsearch_sync(index_name="odoo_data_v90", timeout=30):
     except:
         print(f"⚠️ Impossible de rafraîchir l'index {index_name}")
 
-def clean_old_data(index_name="odoo_data_v90"):
+def clean_old_data(index_name="odoo_data_v91"):
     """Supprime les anciennes données de manière plus fiable"""
     print("🧹 Nettoyage complet des anciennes données...")
     
@@ -147,41 +147,15 @@ def generate_consistent_document_id(record):
         source_id = source_id[0]
     source_id = str(source_id) if source_id is not None else 'no_id'
     
-    # Cas spécifiques pour les documents génériques
+    # Cas spécifiques pour les documents universels seulement
     if record.get('source_model') == 'sale.order':
         return f"sale_order_{source_id}"
     elif record.get('source_model') in ['res.partner', 'res.users', 'res.company', 'res.country', 'crm.team']:
         source_model = record.get('source_model').replace('.', '_')
         return f"{source_model}_{source_id}"
-    
-    # Cas spécifiques pour les documents de métriques agrégées
-    doc_type = record.get('document_type')
-    
-    if doc_type == 'user_individual_metrics':
-        user_name = str(record.get('user_name', '')).replace(' ', '_').replace('é', 'e').replace('è', 'e').lower()
-        return f"user_individual_metrics_{user_name}"
-        
-    elif doc_type == 'team_aggregated_metrics':
-        team_name = str(record.get('team_name', '')).replace(' ', '_').replace('é', 'e').replace('è', 'e').lower()
-        return f"team_aggregated_metrics_{team_name}"
-        
-    elif doc_type == 'order_state_metrics':
-        state = str(record.get('state', 'unknown')).replace(' ', '_').replace('/', '_').lower()
-        return f"order_state_metrics_{state}"
-        
-    elif doc_type == 'team_state_metrics':
-        team_name = str(record.get('team_name', '')).replace(' ', '_').replace('é', 'e').replace('è', 'e').lower()
-        state = str(record.get('state', 'unknown')).replace(' ', '_').replace('/', '_').lower()
-        return f"team_state_metrics_{team_name}_{state}"
-        
-    elif doc_type == 'team_monthly_targets':
-        team_name = str(record.get('team_name', '')).replace(' ', '_').replace('é', 'e').replace('è', 'e').lower()
-        year = str(record.get('year', 'unknown'))
-        month = str(record.get('month_name', 'unknown')).replace(' ', '_').lower()
-        return f"team_monthly_targets_{team_name}_{year}_{month}"
-        
     else:
         # Fallback générique avec un hachage pour tout autre type de document
+        doc_type = record.get('document_type', 'unknown')
         doc_type_safe = str(doc_type).replace(' ', '_').lower()
         content = {
             'doc_type': doc_type,

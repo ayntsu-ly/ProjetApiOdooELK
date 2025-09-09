@@ -21,7 +21,7 @@ class FlexibleOdooConnector:
 
         self.models_config = {
             "sale.order": {
-                "fields": ["id", "name", "partner_id", "amount_total", "state", "date_order", "user_id", "team_id", "company_id"],
+                "fields": ["id", "name", "partner_id", "amount_total", "state", "date_order", "user_id", "team_id", "company_id","invoice_status"],
                 "limit": None,
                 "relations": ["partner_id", "user_id", "team_id", "company_id"]
             },
