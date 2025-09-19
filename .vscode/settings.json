@@ -1,4 +1,6 @@
 {
     "DockerRun.DisableDockerrc": true,
-    "DockerRun.DisableAutoGenerateConfig": true
+    "DockerRun.DisableAutoGenerateConfig": true,
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
 }

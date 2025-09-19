@@ -21,7 +21,7 @@ class FlexibleOdooConnector:
 
         self.models_config = {
             "sale.order": {
-                "fields": ["id", "name", "partner_id", "amount_total", "state", "date_order", "user_id", "team_id", "company_id","invoice_status"],
+                "fields": ["id", "name", "partner_id", "amount_total", "state", "date_order", "user_id", "team_id", "company_id","invoice_status","create_date","quotation_type"],
                 "limit": None,
                 "relations": ["partner_id", "user_id", "team_id", "company_id"]
             },
@@ -49,7 +49,7 @@ class FlexibleOdooConnector:
                 "fields": ["id", "name", "user_id", "company_id","invoiced_target"],
                 "limit": None,
                 "relations": ["user_id", "company_id"]
-            },
+            }  
         }
 
     def authenticate(self):
@@ -118,3 +118,24 @@ class FlexibleOdooConnector:
                 self.all_data[model_name] = {}
         print(f"\n📊 TOTAL CHARGÉ: {total_records} enregistrements")
         return total_records
+    
+    def fetch_in_batches(self, model, fields, batch_size=500, domain=None):
+        """
+        Récupère les données Odoo par batch via search_read.
+        """
+        if domain is None:
+            domain = []
+
+        offset = 0
+        while True:
+            records = self.search_read(
+                model=model,
+                domain=domain,
+                fields=fields,
+                offset=offset,
+                limit=batch_size
+            )
+            if not records:
+                break
+            yield records
+            offset += batch_size
